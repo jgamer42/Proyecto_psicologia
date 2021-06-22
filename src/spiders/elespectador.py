@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv() 
 import site
 site.addsitedir(os.getenv("PROJECT_PATH")+"/src")
-from escritor.escribir_txt import escribir
+import escritor
 
 def procesar(link):
     base = os.getenv("PROJECT_PATH")
@@ -27,7 +27,6 @@ def procesar(link):
     salida["aux"] = " ".join(contenido_auxiliar)
     salida["medio"] = "elespectador"
     salida["link"] = link
-    escribir(salida)
     return salida
 
 def filtro_Autor(links):
@@ -40,7 +39,4 @@ def filtro_Autor(links):
         if "Política" in autor:
             salida.append(link)
     return salida
-a = procesar("https://www.elespectador.com/politica/se-esta-conociendo-la-verdad-sobre-el-conflicto-santos-sobre-falsos-positivos-en-la-jep-article/")
-print(a)
-
 

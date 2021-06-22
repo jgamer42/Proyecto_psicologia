@@ -6,9 +6,8 @@ def buscador(pagina):
     query = f"site:{site} {palabra} after:2015"
     salida = []
     try:
-        data = search(query,tld="com",lang="es",pause=3.0,stop=None)
+        data = search(query,tld="com",lang="es",pause=10.0,stop=None)
         for i in data:
-            print(i)
             salida.append(i)
     except(urllib.error.HTTPError):
         print("error de request")
@@ -16,4 +15,5 @@ def buscador(pagina):
         print("otro")
     finally:
         return salida
-buscador("elespectador")
+#buscador("eltiempo")
+#buscador("elespectador")
