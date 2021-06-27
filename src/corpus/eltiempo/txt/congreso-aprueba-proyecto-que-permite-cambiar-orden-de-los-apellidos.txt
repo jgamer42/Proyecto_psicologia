@@ -1,7 +1,0 @@
-titulo: congreso-aprueba-proyecto-que-permite-cambiar-orden-de-los-apellidos
-Link: https://www.eltiempo.com/politica/congreso/como-es-el-proyecto-que-permite-cambio-de-apellidos-596238
-fecha: 1
-contenido: Una modificación clave en el   de los colombianos fue aprobada este martes en la noche, en la plenaria del Senado. La iniciativa dispone que “en el Registro Civil de Nacimiento se inscribirán como apellidos del inscrito(a), el primer apellido de la madre y el primer apellido del padre, en el orden que decidan de común acuerdo”. (En otras noticias:  ) “En caso de no existir acuerdo, el funcionario encargado de llevar el Registro Civil de Nacimiento resolverá el desacuerdo mediante sorteo, de conformidad con el procedimiento que para tal efecto establezca la  ”, reza el proyecto aprobado en el Senado en último debate. La iniciativa, que solo cobijaría a los recién nacidos, se aplicaría para hijos matrimoniales, extramatrimoniales, adoptivos, de unión marital de hecho, de parejas conformadas por el mismo sexo y con paternidad o maternidad declarada judicialmente. Actualmente, los mayores de edad y personas que presenten casos específicos  . La idea con esta iniciativa es que el orden de los apellidos sea escogido de común acuerdo desde el momento de registrar al recién nacido. O POLÍTICA
-aux: En otras noticias de política
-actores: []
-palabras_clave: []

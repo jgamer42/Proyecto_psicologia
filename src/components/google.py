@@ -1,12 +1,12 @@
 from googlesearch import search
 import urllib
-def buscador(pagina):
+def buscar(pagina):
     site = f"https://www.{pagina}.com/politica/"
-    palabra = "conficto"
+    palabra = "implementacion acuerdos de paz"
     query = f"site:{site} {palabra} after:2015"
     salida = []
     try:
-        data = search(query,tld="com",lang="es",pause=10.0,stop=None)
+        data = search(query,tld="com",lang="es",pause=20.0,stop=None)
         for i in data:
             salida.append(i)
     except(urllib.error.HTTPError):
@@ -15,5 +15,3 @@ def buscador(pagina):
         print("otro")
     finally:
         return salida
-#buscador("eltiempo")
-#buscador("elespectador")

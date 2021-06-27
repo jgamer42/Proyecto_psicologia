@@ -7,8 +7,7 @@ from dotenv import load_dotenv
 load_dotenv() 
 import site
 site.addsitedir(os.getenv("PROJECT_PATH")+"/src")
-import escritor
-
+from components import fechas, puntosAcuerdo
 def procesar(link):
     base = os.getenv("PROJECT_PATH")
     data = requests.get(link)
@@ -22,11 +21,12 @@ def procesar(link):
     archivo = open(base+"/src/model.json")
     salida = json.load(archivo)
     salida["titulo"] = slugify(titulo[0])
-    salida["fecha"] = fecha[0]
+    salida["fecha"] = fechas.normalizar(fecha[0])
     salida["contenido"] = encabezado[0] + " ".join(contenido)
     salida["aux"] = " ".join(contenido_auxiliar)
     salida["medio"] = "elespectador"
     salida["link"] = link
+    salida["puntos"] = puntosAcuerdo.etiquetar(salida["contenido"])
     return salida
 
 def filtro_Autor(links):
@@ -39,4 +39,5 @@ def filtro_Autor(links):
         if "Política" in autor:
             salida.append(link)
     return salida
+
 

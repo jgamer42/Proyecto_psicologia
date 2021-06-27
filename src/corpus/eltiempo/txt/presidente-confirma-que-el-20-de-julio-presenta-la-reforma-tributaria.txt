@@ -1,7 +1,0 @@
-titulo: presidente-confirma-que-el-20-de-julio-presenta-la-reforma-tributaria
-Link: https://www.eltiempo.com/politica/gobierno/reforma-tributaria-duque-confirma-que-la-presentaran-el-20-de-julio-596371
-fecha: 1
-contenido: El presidente Iván Duque confirmó este miércoles que el 20 de julio, cuando empiece un nuevo periodo legislativo en el Congreso, radicará nuevamente la  , con la que busca recaudar fondos para extender los programas sociales y sostener al Estado, tras el golpe que produjo la pandemia de coronavirus en la economía.  (Puede leer:  ) El Gobierno, para evitar lo que ocurrió en marzo pasado, buscará consensuarla con diversos sectores, y en ese camino está previsto que el ministro de Hacienda, José Manuel Restrepo, tenga siete encuentros en igual número de zonas del país para socializarla con empresarios, universitarios, gremios, incluso con sectores vulnerables. (Además:  ) La primera reunión será en Barranquilla, y también habrá en Medellín, Ibagué, Leticia, Cali y Cúcuta. No obstante, ese proceso se puede demorar todavía unos días porque el ministro está aislado, pues le dio covid-19. Este martes, además, el mandatario se reunió con más de 40 gremios y empresarios para evaluar el nuevo texto de la reforma tributaria, que se empezará a discutir el 20 de julio. (Siga leyendo:  )  POLÍTICA
-aux: 
-actores: []
-palabras_clave: []

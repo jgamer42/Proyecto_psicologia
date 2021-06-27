@@ -12,7 +12,7 @@ def txt(modelo):
     file.write(f"contenido: {modelo['contenido']}\n")
     file.write(f"aux: {modelo['aux']}\n")
     file.write(f"actores: {modelo['actores']}\n")
-    file.write(f"palabras_clave: {modelo['palabras_clave']}")
+    file.write(f"puntos: {modelo['puntos']}")
     file.close()
 
 def Json(modelo):

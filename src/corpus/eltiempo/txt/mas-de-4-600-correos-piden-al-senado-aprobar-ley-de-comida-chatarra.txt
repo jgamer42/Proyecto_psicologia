@@ -1,7 +1,0 @@
-titulo: mas-de-4-600-correos-piden-al-senado-aprobar-ley-de-comida-chatarra
-Link: https://www.eltiempo.com/politica/congreso/que-pasara-con-el-proyecto-de-ley-de-comida-chatarra-596713
-fecha: 1
-contenido: Más de 4.600 correos electrónicos enviados a las directivas del Senado piden la aprobación del proyecto de ley que regula  EL TIEMPO conoció que los mensajes, que según cálculos que se hacen en el Capitolio podrían llegar a 5.000 en las próximas horas, hablan de la necesidad de que los ciudadanos conozcan los elementos con los que se fabrican algunas bebidas y comestibles que, para distintos sectores, están “ultraprocesados”. (En otras noticias:  ) Algunos de los ciudadanos que envían estos mensajes hablan de  de los colombianos y del derecho a la información que existe en el país. Esta iniciativa  , tres días antes de que finalicen las sesiones ordinarias del Congreso. POLÍTICA
-aux: 
-actores: []
-palabras_clave: []
