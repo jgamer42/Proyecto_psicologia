@@ -18,7 +18,7 @@ for link in filtredLinks:
     except:
         print("fallo\n\n")
     finally:
-        time.sleep(random.choice([20,25,30,35,40,45,50,55,60]))
+        time.sleep(random.choice([60,120,180]))
 print("espera")
 time.sleep(180)
 
@@ -37,6 +37,6 @@ for link in filtredLinks:
     except:
         print("fallo\n\n")
     finally:
-        time.sleep(random.choice([20,25,30,35,40,45,50,55,60]))
+        time.sleep(random.choice([60,120,180]))
 
 

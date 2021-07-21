@@ -19,4 +19,3 @@ def etiquetar(texto):
                 else:
                     salida.append(punto)
     return salida
-etiquetar("hola")

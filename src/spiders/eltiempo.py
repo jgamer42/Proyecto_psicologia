@@ -4,10 +4,12 @@ import json
 from slugify import slugify
 from lxml import html
 from dotenv import load_dotenv
+import time
+import random
 load_dotenv() 
 import site
 site.addsitedir(os.getenv("PROJECT_PATH")+"/src")
-from components import fechas,puntosAcuerdo
+from components import fechas,puntosAcuerdo,personajes
 def procesar(link):
     base = os.getenv("PROJECT_PATH")
     data = requests.get(link)
@@ -26,6 +28,7 @@ def procesar(link):
     salida["medio"] = "eltiempo"
     salida["link"] = link
     salida["puntos"] = puntosAcuerdo.etiquetar(salida["contenido"])
+    salida["actores"] = personajes.etiquetar(salida["contenido"])
     return salida
 
 def filtro_Autor(links):
@@ -37,5 +40,6 @@ def filtro_Autor(links):
         autor = loaded_html.xpath('//span[@class="nombre who"]/text()')
         if "POLÍTICA" in autor:
             salida.append(link)
+        time.sleep(random.choice([60,120,180]))
     return salida
 
