@@ -9,7 +9,8 @@ from dotenv import load_dotenv
 load_dotenv() 
 import site
 site.addsitedir(os.getenv("PROJECT_PATH")+"/src")
-from components import fechas, puntosAcuerdo,personajes
+from components import fechas
+from components.bussines import puntosAcuerdo,personajes
 def procesar(link):
     base = os.getenv("PROJECT_PATH")
     data = requests.get(link)

@@ -1,6 +1,6 @@
 from src.components import google,escritor
-import src.spiders.eltiempo as eltiempo
-import src.spiders.elespectador as elespectador
+import src.components.spiders.eltiempo as eltiempo
+import src.components.spiders.elespectador as elespectador
 import time
 import random
 print("el tiempo")
