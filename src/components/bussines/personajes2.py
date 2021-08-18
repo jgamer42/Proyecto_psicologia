@@ -2,7 +2,6 @@ import configparser
 import os
 from dotenv import load_dotenv
 import unicodedata
-from copy import deepcopy
 load_dotenv()
 
 def remove_accents(input_str):
@@ -23,7 +22,8 @@ def etiquetar(texto):
     texto_normalizado=texto.lower()
     texto_normalizado=remove_accents(texto_normalizado)
     texto_normalizado=texto_normalizado.strip()
-    for palabra in texto:
+    texto_final = texto_normalizado.split(" ")
+    for palabra in texto_final:
         for personaje in personajes:
             personajes_normalizados = normalizar_personajes(personajes[personaje])
             if palabra in personajes_normalizados:

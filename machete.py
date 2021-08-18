@@ -16,9 +16,9 @@ def marcarPersonajes():
                 data = json.load(jsonCargado)
                 texto = data["aux"]+data["contenido"]
                 actores = personajes2.etiquetar(texto)
-                data["actores"] = actores
-                #jsonEscritor = open(f"{ruta}/{archivo}","a")
-                #json.dump(data,jsonEscritor)
+                data["actores"] = list(set(actores))
+                jsonEscritor = open(f"{ruta}/{archivo}","w")
+                json.dump(data,jsonEscritor)
                 print(actores)
             except:
                 print(f"fallo {ruta}/{archivo}")

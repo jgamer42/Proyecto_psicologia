@@ -1,19 +1,15 @@
-import pymysql.cursors as cursor
-import pymysql
+import mysql.connector as sql
 from dotenv import load_dotenv
 import os
 load_dotenv() 
-
-conexion = pymysql.connect(
+conexion = sql.connect(
     host="localhost",
     user=os.getenv("DB_USER"),
     password=os.getenv("DB_PASSWD"),
-    database=os.getenv("DB_NAME"),
-    cursorclass=cursor.DictCursor
+    database=os.getenv("DB_NAME")
 )
-with conexion:
-    with conexion.cursor() as con:
-        sql = "INSERT INTO actor (nombre) VALUES (prueba)"
-        con.execute(sql,('webmaster@python.org', 'very-secret'))
-    conexion.commit()
+a = conexion.cursor()
+a.execute("SELECT ID FROM punto WHERE nombre='punto1'")
+print(a.fetchone())
+#conexion.commit()
     
