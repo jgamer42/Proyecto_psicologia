@@ -2,7 +2,8 @@ import os
 import json
 from dotenv import load_dotenv
 load_dotenv() 
-from src.components.bussines import personajes2
+from src.components.bussines import personajes2,agruparActores
+
 def marcarPersonajes():
     base = os.getenv("PROJECT_PATH")+"/src/corpus"
     carpetas = os.listdir(base)
@@ -16,7 +17,9 @@ def marcarPersonajes():
                 data = json.load(jsonCargado)
                 texto = data["aux"]+data["contenido"]
                 actores = personajes2.etiquetar(texto)
+                grupos = agruparActores.etiquetar(list(set(actores)))
                 data["actores"] = list(set(actores))
+                data["grupos"] = list(set(grupos))
                 jsonEscritor = open(f"{ruta}/{archivo}","w")
                 json.dump(data,jsonEscritor)
                 print(actores)

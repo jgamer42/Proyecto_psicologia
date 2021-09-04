@@ -6,6 +6,7 @@ def normalizar(fecha):
         return formato1(aux)
 
 def formato1(fecha):
+    mes = 0
     if fecha[1] == "Dec":
         mes = 12  
     elif fecha[1] == "Nov":
@@ -34,6 +35,7 @@ def formato1(fecha):
     return salida
 
 def formato2(fecha):
+    mes = 0
     if fecha[2] == "diciembre":
         mes = 12  
     elif fecha[2] == "noviembre":

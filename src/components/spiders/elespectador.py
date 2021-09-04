@@ -10,7 +10,8 @@ load_dotenv()
 import site
 site.addsitedir(os.getenv("PROJECT_PATH")+"/src")
 from components import fechas
-from components.bussines import puntosAcuerdo,personajes
+from components.bussines import puntosAcuerdo,personajes2
+
 def procesar(link):
     base = os.getenv("PROJECT_PATH")
     data = requests.get(link)
@@ -30,19 +31,33 @@ def procesar(link):
     salida["medio"] = "elespectador"
     salida["link"] = link
     salida["puntos"] = puntosAcuerdo.etiquetar(salida["contenido"])
-    salida["actores"] = personajes.etiquetar(salida["contenido"])
+    salida["actores"] = personajes2.etiquetar(salida["contenido"])
     return salida
 
 def filtro_Autor(links):
     salida = []
     for link in links:
-        data = requests.get(link)
-        data = data.text
-        loaded_html = html.fromstring(data)
-        autor = loaded_html.xpath('//h3[@class="ACredit-Author"]/a/text() | //h3[@class="ACredit-Author"]/text()')[0]
-        if "Política" in autor:
-            salida.append(link)
-        time.sleep(random.choice([60,120,180]))
+        try:
+            data = requests.get(link)
+            data = data.text
+            loaded_html = html.fromstring(data)
+            autor = loaded_html.xpath('//h3[@class="ACredit-Author"]/a/text() | //h3[@class="ACredit-Author"]/text()')[0]
+            if "Política" in autor:
+                salida.append(link)
+            time.sleep(random.choice([60,120,180]))
+            print("esperando")
+        except:
+            print("algo salio mal")
+            continue
     return salida
 
-
+def filtrar(link):
+    data = requests.get(link)
+    data = data.text
+    loaded_html = html.fromstring(data)
+    try:
+        autor = loaded_html.xpath('//h3[@class="ACredit-Author"]/a/text() | //h3[@class="ACredit-Author"]/text()')[0]
+        if "Política" in autor:
+            return link
+    except:
+        print(f"falo {link}")

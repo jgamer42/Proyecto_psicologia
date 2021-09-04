@@ -7,7 +7,11 @@ print("el tiempo")
 print("buscando en google")
 links = google.buscar("eltiempo")
 print("filtrando")
-filtredLinks = eltiempo.filtro_Autor(links)
+try:
+    filtredLinks = eltiempo.filtro_Autor(links)
+except:
+    time.sleep(800)
+    filtredLinks = eltiempo.filtro_Autor(links)
 for link in filtredLinks:
     print(f"procesando:{link}")
     try:
@@ -15,12 +19,11 @@ for link in filtredLinks:
         escritor.txt(dato)
         escritor.Json(dato)
         print("funciono\n\n")
-    except:
+        time.sleep(random.choice([60,120,180,200,500,300,150,20,200,250,80,90,50,10]))
+    except Exception as e:
         print("fallo\n\n")
-    finally:
-        time.sleep(random.choice([60,120,180]))
+        print(e)
 print("espera")
-time.sleep(180)
 
 print("el espectador")
 print("buscando en google")
@@ -34,9 +37,9 @@ for link in filtredLinks:
         escritor.txt(dato)
         escritor.Json(dato)
         print("funciono\n\n")
-    except:
+        time.sleep(random.choice([60,120,180,200,250,200,500,300,150,2080,90,50,10]))
+    except Exception as e:
         print("fallo\n\n")
-    finally:
-        time.sleep(random.choice([60,120,180]))
+        print(e)
 
 
