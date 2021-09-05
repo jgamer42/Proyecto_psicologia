@@ -59,3 +59,5 @@ def filtrar(link):
             return link
     except:
         print(f"fallo {link}")
+
+

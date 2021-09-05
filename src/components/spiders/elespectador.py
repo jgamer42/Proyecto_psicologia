@@ -4,7 +4,7 @@ import json
 import time
 import random
 from slugify import slugify
-from lxml import html
+from lxml import html,etree
 from dotenv import load_dotenv
 load_dotenv() 
 import site
@@ -61,3 +61,27 @@ def filtrar(link):
             return link
     except:
         print(f"falo {link}")
+
+def imagenes(link):
+    data = requests.get(link)
+    data = data.text
+    loaded_html = html.fromstring(data)
+    regex="//script[@type='application/ld+json']"
+    prueba = loaded_html.xpath(regex)
+    for p in prueba:
+        rawjs = etree.tostring(p)
+        rawjs = rawjs.decode()
+        step1 = rawjs.replace('<script type="application/ld+json">',"")
+        step2 = step1.replace("</script>","")
+        step3 = step2.replace("@","")
+        clean = json.loads(step3)
+        try:
+            img = clean["url"]
+            if "jpg" in img:
+                print(img)
+                os.system(f"wget '{img}'")
+                
+        except:
+            pass
+
+#imagenes("https://www.elespectador.com/politica/el-necesario-consenso-politico-para-el-nuevo-acuerdo-de-paz-article-665639/")
