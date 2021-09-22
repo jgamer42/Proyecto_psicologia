@@ -23,7 +23,7 @@ def fechas_unicas():
     a = cur.fetchall()
     fechas = list(set([c[0] for c in a ]))
     años = list(set([año.split("/")[-1] for año in fechas]))
-    años = [año for año in años if año not in ["2020","2021","2021,"]]
+    años = [año for año in años if año not in ["2020","2021","2021,","2020,"]]
     años.sort()
     return años
 
@@ -94,7 +94,14 @@ def porFechas(accion):
     data = getData(accion)
     for d in data:
         for año in años:
-            sql = f"SELECT noticia.link,noticia.fecha FROM noticia INNER JOIN {accion}_noticia, {accion} WHERE {accion}.nombre='{d}' AND {accion}_noticia.{accion}={accion}.id AND noticia.fecha LIKE '%{año}' AND noticia.id={accion}_noticia.noticia"
+            sql = f'''SELECT noticia.link,noticia.fecha 
+            FROM noticia INNER JOIN {accion}_noticia, {accion} WHERE 
+            {accion}.nombre='{d}' AND 
+            {accion}_noticia.{accion}={accion}.id AND 
+            noticia.fecha LIKE '%{año}' AND 
+            noticia.id={accion}_noticia.noticia AND
+            noticia.periodico='elespectador'
+            '''
             noticias = ejecutarSql(sql)
             if len(noticias) != 0:
                 try:
@@ -206,34 +213,6 @@ def totalGrupos():
 
     return salida
 
-
-def datosPowerBi():
-    salida = []
-    query = f'''SELECT DISTINCT noticia.titulo,noticia.fecha,grupo.nombre,punto.nombre,actor.nombre,noticia.periodico 
-    FROM noticia INNER JOIN grupo,punto_noticia,actor_noticia,punto,actor 
-    WHERE 
-    noticia.id=actor_noticia.noticia AND 
-    noticia.id=punto_noticia.noticia AND
-    punto.id=punto_noticia.punto AND 
-    actor.id=actor_noticia.actor AND
-    grupo.id=actor.grupo AND noticia.fecha LIKE '%201%'
-    '''
-    datos = ejecutarSql(query)
-    for dato in datos:
-        fecha = dato[1]
-        mes = int(fecha.split("/")[1])
-        mes = difusorMeses(mes)
-        if "2021," in fecha:
-            fechaCorregida = fecha.replace("2021,","2021")
-        else:
-            fechaCorregida = fecha
-        año = fechaCorregida.split("/")[-1]
-        aux = list(dato[0:1])+[fechaCorregida]+list(dato[2:]) +[año,mes]
-        aux = tuple(aux)
-        if año not in ["2019","2020","2021"]:
-            salida.append(aux)
-    return salida
-
 def grupoFecha():
     salida = {}
     partidos = config["partidos"]
@@ -246,7 +225,8 @@ def grupoFecha():
             grupo.nombre='{partido}' AND
             actor_noticia.actor=actor.id AND
             actor_noticia.noticia=noticia.id AND
-            noticia.fecha LIKE '%{año}'
+            noticia.fecha LIKE '%{año}' AND
+            noticia.periodico='elespectador'
             '''
             data = ejecutarSql(sql)
             if len(data) != 0:
@@ -283,7 +263,8 @@ def grupoPunto():
             grupo.id = actor.grupo AND
             grupo.nombre='{partido}' AND
             punto.nombre='{punto}' AND
-            noticia.fecha LIKE '%201%'
+            noticia.fecha LIKE '%201%' AND
+            noticia.periodico='elespectador'
             '''
             noticias = ejecutarSql(sql)
             if len(noticias) != 0:
@@ -294,16 +275,9 @@ def grupoPunto():
                 salida[partido][punto] = len(noticias)
     return salida
 
-#print(grupoFecha())
-#data["totalMedio"] = medioNoticia()
-#data["totalFechas"] = fechasNoticia()
-#data["totalGrupos"] = totalGrupos()
-#data["totalPuntos"] = totales("punto")
-#data["puntosPorFecha"] = porFechas("punto")
-#data["puntosPorMedio"] = porMedio("punto")
-#data["informeFinal"] = informeCompleto()
-#print(fechasNoticia())
-#a = porFechas("punto")
-#print(grupoPunto())
-escritor.csvFechas(grupoPunto())
-#escritor.jsonInforme(data)
+
+
+#escritor.csvFechas(grupoPunto())
+#escritor.csvAños(grupoFecha())
+#escritor.csvAños(porFechas("punto"))
+print(totales("punto"))

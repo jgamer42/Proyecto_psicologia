@@ -1,4 +1,4 @@
-from src.components import google,escritor
+from src.components import google,escritor,googleEltiempo
 #import src.components.spiders
 import time
 from datetime import datetime
@@ -7,7 +7,13 @@ import site
 site.addsitedir("/home/jaime/cosas/codigo/proyecto_psicologia/src/components/spiders")
 inicio = datetime.now()
 print("buscando en google")
-links = google.buscar("elespectador") + google.buscar("eltiempo")
+elespectador = google.buscar("elespectador") 
+time.sleep(20)
+#eltiempo = google.buscar("eltiempo")
+time.sleep(20)
+#eltiempoEspecial = googleEltiempo.buscar()
+#links = eltiempo+elespectador+eltiempoEspecial
+links = elespectador
 fin = datetime.now()
 print(f"demoro {fin-inicio} y encontro {len(links)}")
 inicio = datetime.now()
@@ -22,10 +28,11 @@ for link in links:
         data = spider.procesar(link)
         escritor.txt(data)
         escritor.Json(data)
-        #print(E)
-        time.sleep(random.choice([20,30,60,90,120]))
+        esperar = random.randint(10,30)
+        #esperar = random.randint(30,420)
+        print(f"esperando {esperar}")
+        time.sleep(esperar)
     else:
-        print(f"no paso {link}")
         continue
 fin = datetime.now()
 print(f"demoro {fin-inicio} y encontro {len(filtrados)}")

@@ -22,6 +22,7 @@ def procesar(link):
     encabezado = loaded_html.xpath('//div[@class="ArticleHeader"]/div/div/text()')
     contenido = loaded_html.xpath('//p/text()')
     contenido_auxiliar = loaded_html.xpath("//p/i/text() | //p/i/b/text() | //p/a/text() ")
+    autor = loaded_html.xpath('//h3[@class="ACredit-Author"]/a/text() | //h3[@class="ACredit-Author"]/text()')[0]
     archivo = open(base+"/src/model.json")
     salida = json.load(archivo)
     salida["titulo"] = slugify(titulo[0])
@@ -30,25 +31,9 @@ def procesar(link):
     salida["aux"] = " ".join(contenido_auxiliar)
     salida["medio"] = "elespectador"
     salida["link"] = link
+    salida["autor"] = autor
     salida["puntos"] = puntosAcuerdo.etiquetar(salida["contenido"])
     salida["actores"] = personajes2.etiquetar(salida["contenido"])
-    return salida
-
-def filtro_Autor(links):
-    salida = []
-    for link in links:
-        try:
-            data = requests.get(link)
-            data = data.text
-            loaded_html = html.fromstring(data)
-            autor = loaded_html.xpath('//h3[@class="ACredit-Author"]/a/text() | //h3[@class="ACredit-Author"]/text()')[0]
-            if "Política" in autor:
-                salida.append(link)
-            time.sleep(random.choice([60,120,180]))
-            print("esperando")
-        except:
-            print("algo salio mal")
-            continue
     return salida
 
 def filtrar(link):
@@ -56,9 +41,11 @@ def filtrar(link):
     data = data.text
     loaded_html = html.fromstring(data)
     try:
-        autor = loaded_html.xpath('//h3[@class="ACredit-Author"]/a/text() | //h3[@class="ACredit-Author"]/text()')[0]
-        if "Política" in autor:
+        autor = loaded_html.xpath('//h3[@class="ACredit-Author"]/a/text() | //h3[@class="ACredit-Author"]/text()')[0].strip()
+        if "Política" in autor or "-Redacción Politíca" in autor or 'Redacción Política' in autor or autor in "Redacción Politíca":
             return link
+        else:
+            print(f"no paso el filtro {link} {autor}")
     except:
         print(f"falo {link}")
 
@@ -79,9 +66,6 @@ def imagenes(link):
             img = clean["url"]
             if "jpg" in img:
                 print(img)
-                os.system(f"wget '{img}'")
-                
+                os.system(f"wget '{img}'")          
         except:
             pass
-
-#imagenes("https://www.elespectador.com/politica/el-necesario-consenso-politico-para-el-nuevo-acuerdo-de-paz-article-665639/")

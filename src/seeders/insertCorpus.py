@@ -14,8 +14,10 @@ corpus_path = f"{base_path}/src/corpus"
 
 def insertar_noticias(data):
     cur = conexion.cursor()
+    if "," in data["fecha"]:
+        data["fecha"] = data["fecha"].replace(",","")
     try:
-        query_noticia = f"INSERT INTO noticia (titulo,contenido,periodico,fecha,link) VALUES ('{data['titulo']}','{data['contenido']}','{medio}','{data['fecha']}','{data['Link']}')"
+        query_noticia = f"INSERT INTO noticia (titulo,contenido,periodico,fecha,link,autor) VALUES ('{data['titulo']}','{data['contenido']}','{medio}','{data['fecha']}','{data['link']}','{data['autor']}')"
     except:
         query_noticia = f"INSERT INTO noticia (titulo,contenido,periodico,fecha,link) VALUES ('{data['titulo']}','{data['contenido']}','{medio}','{data['fecha']}','{data['link']}')"
     cur.execute(query_noticia)
