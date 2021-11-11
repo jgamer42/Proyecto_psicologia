@@ -1,0 +1,21 @@
+titulo: si-la-jep-confirma-los-hechos-y-yo-soy-el-presidente-santrich-sera-extraditado-petro
+Link: https://www.elespectador.com/politica/si-la-jep-confirma-los-hechos-y-yo-soy-el-presidente-santrich-sera-extraditado-petro-article-749219/
+fecha: 10/4/2018
+contenido: el candidato se pronuncio sobre la captura de jesus santrich, lider de la antigua guerrilla de las farc, y solicito al fiscal general "todas las evidencias respecto al caso". luego de que se produjera la captura de seusis hernandez, uno de los integrantes de la farc conocido como  , los aspirantes a la casa de narino ivan duque, humberto de la calle, german vargas y sergio fajardo se pronunciaron al respecto en la noche del lunes, horas despues de haber ocurrido el suceso. 
+
+el candidato   no habia emitido declaracion alguna hasta la manana del martes, cuando en un trino afirmo que, de ser elegido presidente y tener la -- -- 
+
+"queda a prueba las instituciones de la paz. si la jep confirma los hechos cometidos despues de la firma de los acuerdos y yo soy el presidente de colombia, el senor santrich sera extraditado", trino petro  por este motivo, declaro que deja en manos de las  y revalidacion. 
+
+ 
+
+ademas, le pidio directamente a nestor humberto martinez,  , que muestre a la opinion publica   "para que no quede ninguna duda de los procedimientos a seguir". 
+
+anadio tambien que de la direccion de la farc espera   la comunicacion con sus bases para impedir el   y la evaluacion seria se los retos que demanda su compromiso con el pais". queda a prueba las instituciones de la paz. si la jep confirma los hechos cometidos despues de la firma de los acuerdos y yo soy el presidente de colombia, el senor santrich sera extraditado. 
+
+en esto coincidio con los demas  quienes, mas alla de sus posturas en cuanto al acuerdo con la antigua guerrilla, coincidieron en que 
+
+por su parte, el actual presidente,  , anuncio que, si la corte suprema de justicia emite concepto favorable respecto a la   -solicitada hace unos dias por estados unidos-, estara listo para avalarla.
+aux: contexto: fiscalia captura a alias "jesus santrich"
+actores: ['jep', 'gustavo_petro', 'jep']
+puntos: ['punto3', 'punto5']

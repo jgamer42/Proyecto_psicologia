@@ -1,0 +1,51 @@
+titulo: derecha-contra-izquierda-el-historico-duelo-final-por-el-poder-en-colombia
+Link: https://www.elespectador.com/politica/derecha-contra-izquierda-el-historico-duelo-final-por-el-poder-en-colombia-article-794757/
+fecha: 16/0/2018
+contenido: duque o petro. nunca antes colombia habia tenido que definirse entre derecha o izquierda, y el rumbo que elija este domingo determinara la suerte de los acuerdos firmados con las farc, que pretenden enterrar el ultimo conflicto con guerrillas de america.el derechista ivan duque, del centro democratico o el exguerrillero gustavo petro, de la colombia humana; el regreso al poder de la derecha conservadora o el primer gobierno de izquierda: poco mas de 36 millones de electores estan convocados a un balotaje sin antecedentes. 
+
+aunque el delfin politico del controvertido y popular exmandatario alvaro uribe es favorito en las encuestas, petro cree que puede revertir la derrota del 27 de mayo y convertirse en el primer presidente que gobernara sin la amenaza armada de las farc en seis decadas. 
+
+precisamente el pacto que desarmo a esa organizacion subversiva y evito unas 3.000 muertes el ano pasado, centra la campana para elegir al sucesor del impopular juan manuel santos. 
+
+la lucha contra la corrupcion y el narcotrafico y el trato con venezuela tambien entraron en esta disputa de la que, de paso, podria salir fortalecida la derecha en la region o revitalizar a la izquierda, tras los reveses en brasil, argentina y chile. 
+
+ 
+
+a los 42 anos, duque podria llegar a ser el gobernante elegido popularmente mas joven de colombia desde 1872. el candidato del centro democratico tiene la mision de recuperar la presidencia para la derecha mas opuesta el acuerdo de paz. 
+
+de aspecto jovial, este excongresista, que triunfo en la primera vuelta con el 39% de los votos, tiene el apoyo de las elites politicas y economicas para lograr sus objetivos: modificar el pacto de paz de 2016, bajar impuestos a las empresas y liderar la presion internacional contra el gobierno de nicolas maduro en venezuela. 
+
+en concreto, quiere que los jefes rebeldes culpables de delitos atroces paguen un minimo de carcel y no ocupen ninguno de los diez escanos parlamentarios del ahora partido farc. 
+
+"si una persona esta en el congreso y le ratifican una condena por crimenes de lesa humanidad debe dejar la curul", advierte. tambien se propone endurecer las condiciones para el dialogo en curso con los rebeldes del eln. 
+
+si bien la primera guerrilla ya dejo las armas y participo en las legislativas de marzo -en las que obtuvo el 0,5% de los votos-, aun faltan por concretar aspectos claves del acuerdo, como la verdad y reparacion para millones de victimas y las reformas rurales que buscan evitar nuevos conflictos. 
+
+de ser elegido, duque tendra mayorias en el congreso para ajustar lo pactado, ademas del respaldo de los evangelicos y un sector ultraconservador que rechazan el matrimonio y la adopcion gais. 
+
+pero mas alla de sus propuestas conservadoras, aunque liberales en lo economico, duque es cuestionado por la influencia que ejerceria uribe, el senador mas votado en marzo, en su gobierno. 
+
+"ni soy titere ni uribe es titiritero", responde.  
+
+aunque "duque no puede explicarse sin uribe", en el algun momento "buscara autonomizarse de la figura" de su mentor, senala andres ortega, politologo de la universidad nacional. 
+
+   
+
+de 58 anos y exalcalde de bogota, petro lucha contracorriente para ser el primer presidente izquierdista de colombia y sus 49 millones de habitantes, donde el 27% vive en la pobreza. 
+
+en la primera vuelta obtuvo el 25% de los apoyos y ahora para la segunda recibio la adhesion de un sector del centro, que fue la tercera fuerza en votos el pasado 27 de mayo. 
+
+petro no solo se ha comprometido a honrar los acuerdos que condujeron al desarme de mas de 7.000 guerrilleros, sino a "profundizar la paz" mediante una bateria de reformas que incluyen desde altos impuestos para los latifundios improductivos hasta el transito hacia una economia no dependiente del petroleo y el carbon, y centrada en la produccion agricola. 
+
+aqui "ya no es el tema de un acuerdo con la farc, es la paz de colombia, que santos no quiso acometer porque implica reformas sociales a profundidad", senala. 
+
+este exguerrillero del extinto m-19, que asegura haber sido torturado por los militares, lleno plazas y convoco a multitudes de jovenes con su programa contra el cambio climatico, a favor de las minorias y con un enfoque menos represivo contra el consumo de drogas y los campesinos cocaleros. 
+
+sin embargo, su discurso antisistema sirvio de pretexto para que los adversarios lo acusaran de ser un "populista" que busca implantar el "modelo fracasado" de venezuela. 
+
+el petro que arranco esta campana planteando una constituyente para reformar la politica y la justicia, termino mas moderado e incluso comprometiendose a no expropiar y respetar la propiedad privada. 
+
+"la izquierda llego a la final, es un triunfo fuerte pero no gana porque este pais es demasiado de centroderecha", opina andres avila, politologo de la universidad javeriana.
+aux: 
+actores: ['ivan_duque', 'gobierno', 'gustavo_petro', 'ivan_duque', 'gobierno', 'victimas_conflicto', 'ivan_duque', 'ivan_duque', 'gustavo_petro', 'gustavo_petro']
+puntos: ['punto1', 'punto3', 'punto4', 'punto5']

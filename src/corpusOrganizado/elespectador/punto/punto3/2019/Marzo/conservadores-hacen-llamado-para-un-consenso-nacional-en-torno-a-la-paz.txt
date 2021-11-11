@@ -1,0 +1,19 @@
+titulo: conservadores-hacen-llamado-para-un-consenso-nacional-en-torno-a-la-paz
+Link: https://www.elespectador.com/politica/conservadores-hacen-llamado-para-un-consenso-nacional-en-torno-a-la-paz-article-846130/
+fecha: 21/3/2019
+contenido: el senador david barguil envio una carta al presidente ivan duque pidiendole que lidere un acuerdo entre todos los sectores politicos para dejar a un lado la polarizacion en torno al acuerdo de la habana. tras el anuncio de las objeciones a seis articulos de la ley estatutaria de la jurisdiccion especial para la paz (jep), el pais volvio al debate antagonista de los del si y los del no que se dio durante la campana del plebiscito de octubre de 2016. 
+
+ 
+
+ , quien tambien hace parte de la comision accidental que estudiara las objeciones en el congreso, que sea el punto de reconciliacion entre los del si y los del no, que parta de los pilares de justicia, reparacion y no repeticion, pero tambien que asegure que aquellos guerrilleros que decidieron sentarse a negociar y dejar las armas no reincidan en la delincuencia y se reincorporen real y definitivamente a la vida civil", se lee en la misiva. 
+
+ademas,  y "a revisar cuales son las propuestas que estan sobre la mesa. quiza concluyamos que no todos los puntos que el gobierno plantea son aceptables, pero podremos llegar a consensos en donde avancemos en este acuerdo nacional". 
+
+ 
+
+barguil, insistio que  , no es el momento de mezquindades, no es el momento de hacer politica simplemente con las diferencias en el acuerdo de paz", dijo el congresista. 
+
+segun el,  y "defender a las victimas". "esta polarizacion no nos deja ver los verdaderos problemas de colombia", concluyo.
+aux: 
+actores: ['ivan_duque', 'gobierno']
+puntos: ['punto3', 'punto5']

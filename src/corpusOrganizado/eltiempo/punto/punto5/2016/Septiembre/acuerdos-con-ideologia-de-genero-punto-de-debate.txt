@@ -1,0 +1,7 @@
+titulo: acuerdos-con-ideologia-de-genero-punto-de-debate
+Link: https://www.eltiempo.com/politica/proceso-de-paz/punto-de-debate-39107
+fecha: 14/9/2016,
+contenido: ?que piensa del enfoque de genero contemplado en los acuerdos entre el gobierno y las farc? marcela sanchez:  ricardo arias: "es innecesaria la presencia del enfoque de genero que esta incluida en el acuerdo. estabamos hablando sobre el cese del conflicto y nunca nos dijeron que hablarian de la transformacion de la sociedad". ?era necesario un enfoque diferenciado? marcela sanchez: ricardo arias: "claro. es que el problema no es exactamente con los sectores de la sociedad sino con la definicion de genero en la sociedad. la palabra 'genero' se repite 117 veces en el documento del acuerdo final". ?que opina de que la justicia para la paz tenga un grupo para investigar crimenes contra mujeres y lgbti? marcela sanchez:  ricardo arias: "nosotros no tenemos reparo. la comision de la verdad es exactamente para eso. nuestro unico reparo es una ideologia de genero presente en el acuerdo que indica que vamos hacia una transformacion de la sociedad". politica
+aux: 
+actores: ['gobierno']
+puntos: ['punto3', 'punto5']

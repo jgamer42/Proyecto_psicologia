@@ -1,0 +1,21 @@
+titulo: 47-de-colombianos-tienen-una-opinion-favorable-de-la-jep-gallup-poll
+Link: https://www.elespectador.com/politica/47-de-colombianos-tienen-una-opinion-favorable-de-la-jep-gallup-poll-article-861085/
+fecha: 16/5/2019
+contenido: aunque los porcentajes arrojados esta vez no muestran una diferencia considerable entre las personas que ven como favorable la institucion y las que no, un comparativo con resultados de la medicion en meses anteriores exhibe que con el tiempo ha aumentado la cantidad de personas que piensan positivo de la jep. el 47 % de los colombianos tiene una opinion favorable sobre la jurisdiccion especial para la paz, frente a un 46 % que ve con malos ojos a esta institucion, segun los resultados de la mas reciente encuesta gallup poll, realizada por invamer. 
+
+si bien la diferencia entre ambos resultados es casi nula, la medicion mostro de igual forma que la opinion positiva de los colombianos sobre la entidad creada luego de la firma del acuerdo de paz ha venido incrementando desde octubre de 2018. 
+
+los datos confrontados exhiben, por ejemplo, que en febrero de 2018 el 34 % de las personas que participaron en la encuesta tenian una opinion favorable de de la jep, frente a un 55% que pensaba lo contrario. pese a que, desde esa fecha hasta la actualidad, ha primado la mirada desfavorable sobre el sistema de justicia transicional, ha variado en promedio 2 puntos por mes. 
+
+las encuestas se realizaron entre el 2 y el 11 de mayo. el dia que inicio el proceso fue, justamente, el dia en que finalizo la prolongada discusion en el senado sobre las objeciones presidenciales a seis puntos de la ley estatutaria de la jep. ese 2 de mayo la camara alta no tomo decision, por lo que el futuro de los reparos quedo en manos de la corte constitucional. 
+
+de manera que los dias en que se llevo a cabo la encuesta, el ambiente del pais se nutria de las opiniones que apoyaban y demeritaban lo sucedido en el congreso, y el cansancio de los legisladores por un debate dilatado en el senado por lo menos tres semanas. 
+
+aparte de la sensacion sobre la jep, gallup poll tambien entrego resultados del parecer de la gente sobre la corte suprema de justicia y el sistema judicial colombiano. sobre la alta corte, el 57 % tiene una opinion desfavorable, frente a un 35 % que tiene una buena imagen de la entidad. en la encuesta de febrero de este ano, la corte suprema de justicia presentaba un 64 % de desfavorabilidad, frente a un 27 % de favorabilidad. 
+
+ahora, sobre el sistema judicial colombiano, el 79 % senala que tiene una imagen desfavorable, frente a un 20 % que piensa lo contrario. los resultados has mostrado altos indices de desaprobacion desde que se inicio el gobierno del presidente ivan duque, e incluso durante los dos periodos anteriores de juan manuel santos. segun los datos de la encuestadora, desde el final del periodo de alvaro uribe velez empezo una linea ascendente que evidenciaba una mirada negativa de los colombianos sobre el sistema judicial colombiano. 
+
+la encuesta tambien arrojo resultados sobre la aprobacion de los colombianos a la gestion del presidente ivan duque, de los alcaldes y gobernadores, el porcentaje de favorabilidad y desfavorabilidad de personajes politicos, funcionarios publicos, instituciones nacionales, propuestas, leyes o afirmacion y sobre el proceso de paz. para esta nueva medicion, invamer hizo 1.200 encuestas, repartidas en bogota, medellin, cali, barranquilla y bucaramanga. (ver ficha tecnica).
+aux: 
+actores: ['senado', 'senado', 'gobierno']
+puntos: ['punto3', 'punto5']

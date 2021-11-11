@@ -1,10 +1,9 @@
 import requests
 import os
 import json
-import time
-import random
 from slugify import slugify
 from lxml import html,etree
+import unidecode 
 from dotenv import load_dotenv
 load_dotenv() 
 import site
@@ -27,8 +26,8 @@ def procesar(link):
     salida = json.load(archivo)
     salida["titulo"] = slugify(titulo[0])
     salida["fecha"] = fechas.normalizar(fecha[0])
-    salida["contenido"] = encabezado[0] + " ".join(contenido)
-    salida["aux"] = " ".join(contenido_auxiliar)
+    salida["contenido"] = unidecode.unidecode(str(encabezado[0] + " ".join(contenido)).lower().strip())
+    salida["aux"] = unidecode.unidecode(str(" ".join(contenido_auxiliar)).lower().strip())
     salida["medio"] = "elespectador"
     salida["link"] = link
     salida["autor"] = autor

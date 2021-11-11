@@ -1,0 +1,17 @@
+titulo: pablo-catatumbo-dispuesto-a-reunirse-con-alvaro-uribe
+Link: https://www.elespectador.com/politica/pablo-catatumbo-dispuesto-a-reunirse-con-alvaro-uribe-article-711079/
+fecha: 1/9/2017
+contenido: el miembro del secretariado de la farc le envio un mensaje al expresidente en el que lo invita a dejar atras los odios.
+	durante su intervencion en el ultimo dia de sesiones de la farc, la exguerrilla en transito hacia partido politico,  en aras de fortalecer la implementacion de los acuerdos de la habana. 
+
+
+	en ese sentido, jorge torres victoria, quien fue conocido durante la insurgencia como  principal critico de lo pactado con esa organizacion en cuba. senalo, ademas, que los odios deben superarse en este momento historico para colombia. 
+
+
+	"los tiempos de la guerra y del odio tenemos que dejarlos atras. nos han hecho mucho dano a los colombianos. , senalo  quien, al parecer, encabezaria las listas que presentara el naciente partido politico, fuerza armada revolucionaria del comun, en las elecciones legislativas del ano entrante. 
+
+
+	sin embargo, se preve que dicha reunion entre los maximos jefes de la farc y el expresidente, alvaro uribe, no se de dado el rechazo que ha asumido el hoy senador del centro democratico a la vida politica de esa organizacion -hoy sin armas-, especialmente,
+aux: 
+actores: []
+puntos: ['punto2', 'punto3', 'punto5']

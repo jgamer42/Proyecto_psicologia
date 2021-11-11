@@ -1,0 +1,19 @@
+titulo: la-u-insiste-de-cara-a-votacion-definitiva-que-objeciones-no-son-procedentes
+Link: https://www.elespectador.com/politica/la-u-insiste-de-cara-a-votacion-definitiva-que-objeciones-no-son-procedentes-article-853374/
+fecha: 2/5/2019
+contenido: roosvelt rodriguez, senador de la u, senalo, sobre el tema a la extradicion, que la corte, durante el proceso de justicia y paz, le hizo advertencias al gobierno de uribe porque consideraba que estas podian afectar la desmovilizacion y la verdad.el senador  , insistio este jueves, de cara a la votacion definitiva de las objeciones presidenciales a la ley estatutaria de la jurisdiccion especial para la paz (jep), que los reparos de ivan duque marquez  
+
+"buena parte de esas objeciones, sino todas, hacen referencia a temas juridicos y no de conveniencia", argumenta el senador de la u, partido que fijo posicion para negar las objeciones, pero del que, en todo caso, hace parte la mayoria de congresistas que se ausentaron el pasado martes de la plenaria en el momento de la votacion y se convirtieron en una de las razones por las que los defensores de la implementacion del acuerdo de paz no lograron los 48 votos que, a juicio de la mesa directiva, se necesitaban para aprobar la ponencia de archivo. 
+
+ 
+
+rodriguez, ademas, se refirio a las objeciones sobre la extradicion, que es uno de los puntos que mas le interesa al centro democratico, colectividad que lidera la defensa de los reparos del presidente duque. "la jep solo sera aplicable a quienes cometieron delitos en el conflicto armado antes de 1deg de diciembre de 2016 . sobre ese tema ya se pronuncio la corte y dijo de que manera habia que interpretarlo", anota el congresista. 
+
+en ese mismo sentido, explica que el antecedente en el tema de la extradicion es la ley de justicia y paz, a la que se sometieron los grupos paramilitares. "cuando el presidente uribe decidio extraditar a quienes estaban sometidos a esa ley, porque estaban delinquiendo desde la carcel, la corte llamo la atencion y dijo que habia que tener cuidado con esas extradiciones porque, finalmente, atentaban contra el proposito de esa ley, contra la desmovilizacion y, por supuesto, contra el fundamento de esa ley, que era la verdad". 
+
+segun el senador de la u, atentar contra la verdad "es atentar contra las victimas". "eso le dijo la corte al gobierno de uribe, pero desatendieron esas alertas y siguieron extraditando. concluyo rodriguez. 
+
+el senado de la republica se apresta a votar las objeciones, luego de tres dias en los que no se han podido tramitar. el ultimo inconveniente que hubo al respecto ocurrio en la plenaria del miercoles, cuando el presidente del senado, ernesto macias, senalo que, por error, habia olvidado anunciar los temas que se tratarian en la plenaria de ese mismo dia y, por esa razon, se debia aplazar la discusion.
+aux: 
+actores: ['gobierno', 'ivan_duque', 'jep', 'gobierno', 'senado']
+puntos: ['punto3', 'punto5']

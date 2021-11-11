@@ -1,6 +1,7 @@
 import configparser
 import os
 from dotenv import load_dotenv
+import unidecode
 load_dotenv() 
 
 def etiquetar(texto):
@@ -11,7 +12,7 @@ def etiquetar(texto):
     config.read(f"{rootPath}/general.cfg")
     puntos = config["palabras_clave"]
     for punto in puntos:
-        palabrasClave = list(set(puntos[punto].lower().split(",")))
+        palabrasClave = list(set(unidecode.unidecode(puntos[punto].lower()).split(",")))
         for palabra in palabrasClave:
             if palabra in texto:
                 if punto in salida:

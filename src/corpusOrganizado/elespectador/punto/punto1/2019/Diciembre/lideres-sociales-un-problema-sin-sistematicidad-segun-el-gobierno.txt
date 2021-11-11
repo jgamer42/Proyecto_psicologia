@@ -1,0 +1,31 @@
+titulo: lideres-sociales-un-problema-sin-sistematicidad-segun-el-gobierno
+Link: https://www.elespectador.com/politica/lideres-sociales-un-problema-sin-sistematicidad-segun-el-gobierno-article-897429/
+fecha: 26/12/2019
+contenido: el balance de crimenes contra lideres sociales, segun el consejero presidencial en derechos humanos, francisco barbosa, es de 84 homicidios entre el 1deg de enero de 2019 y el 17 de diciembre. sin embargo, indepaz controvierte la cifra del ejecutivo y registra 234 asesinatos de defensores de derechos humanos.el consejero presidencial en derechos humanos y relaciones internacionales,  . segun su oficina, los crimenes contra lideres sociales han sido menos que el ano pasado y estan asociados a fenomenos de criminalidad que responden a particularidades territoriales, por lo que, insiste, no existe sistematicidad ni relacion entre uno y otro homicidio. 
+
+ y quien fue postulado por el presidente ivan duque para asumir la fiscalia general de la nacion. barbosa asegura que desde el primer dia de este ano los homicidios de lideres han ocurrido en 58 de los 1.103 municipios del pais. ademas, revelo que en el periodo entre el 1deg de enero de 2019 y el 17 de diciembre fueron 84 los lideres asesinados, lo que, a su juicio, implica una reduccion del 25 % con respecto al 2018. 
+
+ 
+
+ y recuerda que la categoria de lideres sociales empezo a utilizarse a partir de 2016. barbosa aprovecho para destacar que, en el marco de la implementacion del plan de accion oportuna (pao), puesto en marcha desde noviembre de 2018 hasta hoy, la reduccion de crimenes fue del 23 %. 
+
+ , donde, ademas, estan luchando por el control de las rutas de narcotrafico. zonas con aumento de cultivos de coca y al mismo tiempo mineria ilegal", expreso barbosa. tambien afirma que en estas regiones el gobierno de duque esta haciendo un esfuerzo por llevar la presencia estatal, como es el caso de los 170 municipios priorizados por el acuerdo de paz por ser las regiones donde el impacto del conflicto armado ha sido mayor. 
+
+barbosa hizo un llamado para que los gobernantes locales y departamentales que iniciaran sus mandatos el 1deg de enero de 2019 asuman dentro de sus planes de gobierno medidas para proteger a los lideres sociales y denuncien los hechos cuando estos ocurran. a proposito de esto, el consejero presidencial informo que  . 
+
+ 
+
+"400 mil millones se destinan exclusivamente a lideres sociales, sobre prevencion colectiva ya hay 38 resguardos, 31 consejos comunitarios inscritos y 12 organizaciones sociales que gozan de proteccion. un componente colectivo muy importante", preciso el funcionario. asimismo anuncio que en enero el gobierno lanzara un plan nacional de empresas y derechos humanos, con el fin de cumplir con los estandares internacionales en esta materia. 
+
+respecto al tema de la sistematicidad en los crimenes, posicion que tensiona las relaciones entre organizaciones dedicadas a la defensas de los derechos humanos y el gobierno, barbosa aseguro:  aqui lo que existen son razones diversas que se producen contra nuestros lideres sociales, atadas a fenomenos de delincuencia. esta idea de sistematicidad hay que rechazarla, lo que existe es una accion de la delincuencia, de los criminales, del narcotrafico, de la gente que practica la mineria ilegal, de aquellos que estan luchando por apoderase de las rutas del narcotrafico en algunas de esas zonas donde se ha producido un aumento de los cultivos ilicitos. mas que sistematicidad lo que existe es una accion contra nuestros lideres por diversas causas. no podemos hablar de sistematicidad". 
+
+ 
+
+de igual manera, registro que se ha avanzado en esclarecimiento de este tipo de casos, y que, segun  que hay en todos los crimenes en diferentes casos. lo que hay que hacer es un trabajo conjunto (...) esas tazas, como lo ha planteado la fiscalia, han variado entre el 50 y el 60 %. hoy estamos en 53 %", anadio 
+
+finalmente, el funcionario de gobierno envio algunos mensajes al pais: "instar a las autoridades judiciales a avanzar en esas investigaciones. a la ciudadania, a las autoridades locales y departamentales, este tema de los lideres sociales nos compete a todos. aqui no puede ser posible que inmediatamente ocurre uno de estos hechos todo el mundo esta buscando un solo responsable, cuando todo el mundo tiene que ponerse la mano en el corazon y salir de forma clara a clarificar lo que esta ocurriendo.  
+
+en respuesta, una de las organizaciones de derechos humanos y que lleva un detallado registro de homicidios de lideres sociales, salio a controvertir las cifras entregadas por barbosa. segun ellos,  . indepaz sostuvo que, contrario a lo planteado por el funcionario publico, desde que ivan duque llego a la presidencia los homicidios contra lideres no han sido 121, como asegur a barbosa, sino 347, y que, desde la firma del acuerdo de paz, en 2018, ya van 745 lideres asesinados.
+aux: 
+actores: ['ivan_duque', 'fiscalia', 'gobierno', 'ivan_duque', 'gobierno', 'gobierno', 'gobierno', 'ivan_duque']
+puntos: ['punto1', 'punto3', 'punto4']

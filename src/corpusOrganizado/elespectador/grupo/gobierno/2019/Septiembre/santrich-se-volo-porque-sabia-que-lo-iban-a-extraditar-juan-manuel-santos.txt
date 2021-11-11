@@ -1,0 +1,27 @@
+titulo: santrich-se-volo-porque-sabia-que-lo-iban-a-extraditar-juan-manuel-santos
+Link: https://www.elespectador.com/politica/santrich-se-volo-porque-sabia-que-lo-iban-a-extraditar-juan-manuel-santos-article-878997/
+fecha: 1/9/2019
+contenido: el expresidente volvio a referirse sobre el tema del rearme de un grupo de disidentes de las farc en la feria del libro de bucaramanga. por su parte, manifesto su deseo de participar en los esfuerzos que sean necesarios para continuar con la implementacion del acuerdo de paz.en los ultimos dias, gracias al anuncio del rearme de un grupo disidente de la extinta guerrilla de las farc, el expresidente juan manuel santos ha estado mas activo que nunca en la opinion publica desde que dejo la casa de narino.  
+
+aunque el pasado jueves, dia en que se conocio el video con el que "ivan marquez" comunico el levantamiento en armas por la "traicion al acuerdo de paz", santos se habia manifestado en contra de este anuncio. este sabado, durante su visita a bucaramanga como invitado a la feria del libro, se le escucho hablar nuevamente del tema.  
+
+ 
+
+en primer lugar, le echo la culpa al exjefe negociador de las farc, "ivan marquez", "jesus santrich" y demas guerrilleros que se rearmaron por el nuevo "escollo" que sufre la implementacion del acuerdo de paz.  
+
+aunque la motivacion de los disidentes es la "traicion" a lo pactado en la habana, segun manifestaron, el exmandatario, quien lidero las conversaciones con la guerrilla en su gobierno, aseguro que ellos abandonaron el proceso por otros motivos. 
+
+"ellos decidieron por muchas razones (volarse). algunos dicen que porque ellos sabian que este senor (marlon) marin (sobrino de marquez), que esta en manos de la justicia norteamericana, los esta acusando, especificamente a marquez y a santrich y que por eso marquez se volo muerto de susto y santrich se volo porque pensaba que efectivamente a el lo iban a extraditar y si salia la prueba de que delinquio a el lo extraditaban. con razon, los responsables son ellos", dijo.  
+
+se sabe que marin, testigo protegido por la dea, senalo a "santrich" de estar involucrado en un plan para enviar cocaina a estados unidos, hecho por el que el lider guerrillero fue capturado el 9 de abril de 2018. cuando recobro su libertad y la jep le dio la garantia de no extradicion por no reunir las pruebas suficientes que determinaran si delinquio despues de la firma del acuerdo, seuxis hernandez logro posesionarse como representante a la camara por la farc y la corte suprema asumio el caso por narcotrafico al tratarse de un aforado.  
+
+ 
+
+aun asi, con las garantias que le proporciono la justicia a "santrich", "ivan marquez" permanecio en la clandestinidad luego de que abandonara el espacio territorial de miravalle, caqueta, en julio de 2018, con el argumento de falta de garantias juridica por la captura de su companero.  
+
+a finales del pasado junio, cuando cumplia con una visita al etcr de tierra grata, cesar, "santrich" obvio su esquema de seguridad y desaparecio de la escena publica. tras dos meses de especulaciones, se le vio junto a "marquez" cuando dieron el anuncio de su rearme.  
+
+ademas del escape de estos dos guerrilleros, santos tambien se refirio a una union de fuerzas politicas y sociales para blindar lo pactado. "ojala pudieramos hacer esfuerzos, ojala el presidente duque aprovechara (esta situacion) e hicieramos un acuerdo que participaramos todos. yo mismo lo haria con emocion", dijo el exmandatario.
+aux: 
+actores: ['estado', 'jep', 'ivan_duque']
+puntos: ['punto3', 'punto4', 'punto5']

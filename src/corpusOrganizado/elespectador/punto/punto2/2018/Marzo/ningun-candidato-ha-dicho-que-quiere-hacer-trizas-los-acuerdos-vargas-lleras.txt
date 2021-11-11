@@ -1,0 +1,15 @@
+titulo: ningun-candidato-ha-dicho-que-quiere-hacer-trizas-los-acuerdos-vargas-lleras
+Link: https://www.elespectador.com/politica/ningun-candidato-ha-dicho-que-quiere-hacer-trizas-los-acuerdos-vargas-lleras-article-746554/
+fecha: 26/3/2018
+contenido: el exvicepresidente dijo que esta tranquilo con las aclaraciones que, sobre los textos de la habana, ha hecho la corte constitucional. sin embargo, fue critico con el proyecto de sometimiento colectivo de las bandas criminales en caso de que la iniciativa pueda acoger a las disidencias de las farc. el exvicepresidente de la republica y hoy candidato presidencial,   que en caso de llegar a ganar las elecciones del 27 de mayo (o del 17 de junio, en segunda vuelta),   firmado con la exguerrilla de las farc pues, desde su perspectiva, el haber logrado la desmovilizacion del extinto grupo armado es un gran paso para la reconciliacion del pais. 
+
+  que le han caido desde distintos sectores por sus fuertes posturas alrededor de la implementacion de los acuerdos, pese a haber estado durante varios anos en el gobierno del presidente juan manuel santos. "  el consenso generalizado es que la desmovilizacion de las farc termino resultando bien y todo el mundo celebro la entrega de las armas de esa organizacion", dijo vargas lleras. 
+
+en ese sentido, reitero que, respecto de lo pactado, si tuvo dos preocupaciones que lo motivaron a no acompanar el acuerdo de paz: l y las consecuencias que recaerian sobre los exmiembros de la  . sobre el primer asunto, dijo que el tema quedo resuelto "cuando la corte constitucional senalo que la jep era solo aplicable a los integrantes de las farc sindicados o condenados por delitos atroces o de lesa humanidad y, por extension, a los miembros de la fuerza publica que quieran acogerse voluntariamente", dijo vargas lleras. 
+
+sobre el segundo tema, segun dijo el candidato avalado por firmas pero apoyado por el partido cambio radical, tambien quedo tranquilo pues   sin embargo, vargas lleras si fue critico en torno al proyecto de ley que fue radicado la semana pasada en el congreso, que permitiria el sometimiento colectivo de las bandas criminales, como el denominado 'clan del golfo'. 
+
+afirmo vargas lleras que el estado no puede permitir ningun tipo de beneficio a los reductos de la desarmada guerrilla y, mas aun, debe actuar con toda contundencia en contra de aquellas disidencias que siguen operando en las areas de mayor produccion y trafico de drogas.  , concluyo.
+aux: 
+actores: ['estado', 'gobierno', 'jep', 'estado']
+puntos: ['punto2', 'punto3', 'punto5']

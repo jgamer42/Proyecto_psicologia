@@ -1,0 +1,30 @@
+titulo: por-fin-con-el-53-los-votos-le-ganaron-a-la-abstencion
+Link: https://www.elespectador.com/politica/por-fin-con-el-53-los-votos-le-ganaron-a-la-abstencion-article-791085/
+fecha: 28/5/2018
+contenido: en una votacion historica, la cantidad de colombianos que se manifestaron en las urnas supero al abstencionismo.ni la promesa de la continuacion de los dialogos de paz con las farc de santos, ni el plebiscito para refrendar esos acuerdos, ni los senadores alvaro uribe y antanas mockus lograron atraer tantos votantes a las urnas como las pasadas elecciones presidenciales. 
+
+colombia acaba de presenciar una victoria historica:  . esta vez, el 53,36 % de los votantes habilitados asistieron a las urnas, es decir, 19'628.564 colombianos. 
+
+
+este es un resultado sin antecedentes desde que la constitucion de 1991 fue proferida. es mas: de acuerdo con un analisis publicado en 2013, y que tomo las elecciones entre 1978 y 2010,  
+
+?que cambio entonces? son varios los factores que pudieron haber influido, pero precisamente el fin de la lucha armada de las farc genero un ambiente de tranquilidad en todo el territorio, que, en las epocas mas crudas del conflicto, no habria sido posible. 
+
+el ministro del interior, guillermo rivera, asi lo ratifico: este ano no se presentaron incidentes de alteracion del orden publico, ni amenazas o ataques a candidatos o grupos politicos. 
+
+"a estas horas en otros anos ya habriamos reportados agresiones, alteraciones de orden publico. por fortuna las farc ya no son una organizacion armada sino politica y  ", dijo rivera tras el cierre de la jornada electoral. 
+
+asimismo, el cese al fuego unilateral que anuncio el ejercito de liberacion nacional (eln), y que fue cumplido, permitio que en todo el pais los colombianos se acercaran a las urnas. 
+
+si bien el triunfo de la participacion es un logro, colombia todavia tiene que recorrer un largo trecho en terminos de participacion electoral. de hecho, de acuerdo con la ong international idea, 
+
+ademas, la distribucion de los votos en el pais es bastante desigual. mientras que en las grandes capitales se situo entre el 50 y el 60% de la gente, en algunas regiones no supero ni el 40%. las votaciones mas bajas se registraron en  , vaupes, donde voto el 31,48 % de la gente, y vichada, donde el 32,97 % de sus habitantes habilitados para votar no se quedaron en la casa. 
+
+ademas de la apatia, la baja participacion en las regiones perifericas tambien podria relacionarse con la dificultad para acceder a puestos de votacion. de hecho, de acuerdo con cifras de la moe,  , con trayectos que pueden alcanzar hasta las seis horas.   
+
+ 
+
+todo parece indicar que los mas jovenes son los que que menos votan. segun barometro de las americas, seis de cada 10 jovenes dicen no confiar en las instituciones democraticas; siete de cada 10 piensan que a los gobernantes no les interesan sus opiniones;  y solo el 25% dice confiar en el congreso. esto genera un panorama en el que
+aux: 
+actores: ['ministros', 'ong']
+puntos: ['punto2', 'punto3', 'punto5']

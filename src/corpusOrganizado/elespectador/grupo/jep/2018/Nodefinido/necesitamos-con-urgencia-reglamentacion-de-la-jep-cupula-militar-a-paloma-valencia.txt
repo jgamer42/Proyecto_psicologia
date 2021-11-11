@@ -1,0 +1,29 @@
+titulo: necesitamos-con-urgencia-reglamentacion-de-la-jep-cupula-militar-a-paloma-valencia
+Link: https://www.elespectador.com/politica/necesitamos-con-urgencia-reglamentacion-de-la-jep-cupula-militar-a-paloma-valencia-article-796856/
+fecha: 27/0/2018
+contenido: en una carta, la cupula militar le pide a la senadora y la bancada del centro democratico que el tramite de la ley de reglamentacion se haga en esta legislatura "para blindar la seguridad juridica de los miembros de la fuerza publica en el ambito nacional e internacional".
+
+en una carta de cuatro paginas, la cupula militar le senalo a la senadora paloma valencia, del centro democratico --y quien ha estado a cargo de la negociacion con el gobierno de los puntos en los que ese partido no esta de acuerdo--,  
+
+ , precisamente porque son indispensables para blindar la seguridad juridica de los miembros de la fuerza publica en el ambito nacional e internacional", senala el escrito. 
+
+ 
+
+en la misiva, la cupula militar destaca que en la ley estatutaria de la jep ya se incorporaron aspectos para la seguridad juridica de los miembros de la fuerza publica, que fueron el resultado de varias horas de analisis y evaluacion. 
+
+"los mas de 2.000 militares y policias que se han sometido a la justicia especial para la paz (jep), de los cuales mas de 1.500 han recuperado su libertad, requieren hoy, mas que nunca, que sus procesos se ventilen sin dilacion alguna en la jurisdiccion especial para la paz", senala el documento. 
+
+en ese sentido, hacen el llamado a valencia y a la bancada del centro democratico  para que el tramite del proyecto de reglamentacion de la jep se haga en esta legislatura y no se dilate ni se aplace, como era la intencion del partido uribista, hasta la instalacion del nuevo congreso. 
+
+"agradecernos infinitamente su apoyo e interes por garantizar la seguridad juridica de nuestras fuerzas militares y nuestra policia nacional y por dimensionar nuestra legitimidad institucional.  
+
+el documento fue firmado por el general carlos bueno, comandante de la fuerza aerea; el general juan bautista yepes, jefe del estado mayor conjunto de las fuerzas militares; el general jorge hernando nieto, director de la policia nacional; el ministro de defensa, luis carlos villegas, el general alberto jose mejia, comandante general de las fuerzas militares; el almirante ernesto duran, comandante de la armada nacional; y el mayor general luis fernando navarro, segundo comandante del ejercito nacional. 
+
+ 
+
+la plenaria del senado esta convocada para este miercoles para votar el proyecto y, al parecer, ya hay un acuerdo para su aprobacion, que consiste en la aceptacion por parte del gobierno de la discusion de dos proposiciones del centro democratico. una tiene que ver con las facultades de la jep para decidir sobre las solicitudes de extradicion, y consiste en que esta jurisdiccion solo tenga la facultad de verificar la fecha del cometimiento de determinado delito (es decir, si fue antes o despues de la firma del acuerdo de paz). 
+
+el segundo aspecto tiene que ver con que los militares puedan ir a la jep en este momento, tal y como ya fue estipulada, sin tener la necesidad de esperar a que ese partido tramite el acto legislativo con el que pretende crear una sala especial para los militares, una modificacion que, a la luz de lo que hay hoy, seria inconstitucional, segun ha sostenido el ministro del interior, guillermo rivera.
+aux: 
+actores: ['estado', 'gobierno', 'jep', 'jep', 'estado', 'ministros', 'senado', 'gobierno', 'jep', 'jep', 'ministros']
+puntos: ['punto2', 'punto3', 'punto5']

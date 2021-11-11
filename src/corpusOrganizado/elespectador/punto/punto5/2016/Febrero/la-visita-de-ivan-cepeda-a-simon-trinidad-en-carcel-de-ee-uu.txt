@@ -1,0 +1,7 @@
+titulo: la-visita-de-ivan-cepeda-a-simon-trinidad-en-carcel-de-ee-uu
+Link: https://www.elespectador.com/politica/la-visita-de-ivan-cepeda-a-simon-trinidad-en-carcel-de-eeuu-article-614041/
+fecha: 1/2/2016
+contenido: se desconocen los detalles del dialogo entre el senador y el jefe de las farc detenido.en las ultimas horas se conocio que el  . . de acuerdo a lo que ha trascendido, ambos discutieron como podria aportar el guerrillero a la paz en colombia. segun associated press, al  . las farc en varios pronunciamientos en desarrollo del proceso de paz de cuba han insistido en la necesidad de que 'simon trinidad' sea puesto en libertad como parte de los avances en el proceso de negociacion de la paz. sobre el tema, bernard aronson, enviado estadounidense a las conversaciones de paz de la habana, dijo que una posible liberacion del exlider guerrillero preso en una carcel de maxima seguridad estadounidense, no hace parte de las negociaciones. ( ) hace unos meses, el alto comisionado para la paz, sergio jaramillo, dijo que 'simon trinidad' deberia estar en la firma del acuerdo de paz. en ese sentido, indico que el presidente juan manuel santos ha hablado en esferas del mas alto nivel para que 'simon trinidad' pueda participar en los dialogos. ( )
+aux: lea mas sobre la tesis de aronson frente a la extradicion de guerrilleros lea mas sobre la version de jaramillo
+actores: []
+puntos: ['punto3', 'punto5']

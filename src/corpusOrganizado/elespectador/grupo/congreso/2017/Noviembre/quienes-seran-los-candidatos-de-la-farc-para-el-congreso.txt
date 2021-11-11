@@ -1,0 +1,26 @@
+titulo: quienes-seran-los-candidatos-de-la-farc-para-el-congreso
+Link: https://www.elespectador.com/politica/quienes-seran-los-candidatos-de-la-farc-para-el-congreso-article-721373/
+fecha: 3/11/2017
+contenido: ivan marquez encabezara la lista para el senado, al que tambien aspiraran, entre otros, pablo catatumbo y carlos antonio lozada. entre los candidatos para la camara estan marco calarca y jesus santrich.
+	de cara a las   no cesa la polemica. ademas de la cantidad de candidatos, del gran numero de comites que se han conformado para recolectar firmas, de los escandalos de corrupcion y de los evidentes retrasos en la implementacion de los acuerdos de paz, los del proximo ano seran los primeros comicios en los que, despues de un conflicto de mas de 50 anos,  
+
+
+	despues de que el miercoles el   diera via libre, con seis votos a favor y dos en contra, al partido politico , esta naciente colectividad dio a conocer cuales seran sus cartas para 2018. lo primero fue confirmar que rodrigo londono, 'timochenko', sera candidato presidencial, y que su formula para la vicepresidencia sera imelda daza, actual vocera de voces de paz en el congreso. 
+
+
+	(lea aqui: ). 
+
+
+	pero la candidatura de 'timochenko' no fue la unica que anuncio la farc. este jueves tambien dio a conocer los candidatos para el congreso en 2018, recordando que, por el acuerdo de paz, esta colectividad tiene aseguradas , independiente de los resultados que obtenga en las urnas, como una forma de garantizar su participacion en politica. 
+
+
+	asi las cosas, para el senado los candidatos son:  , quien encabezara la lista al senado y que actualmente es parte de la direccion nacional de la farc;  , quien desde 2008 hizo parte del secretariado de la guerrilla;  , quien lleva 39 anos en las farc y que, actualmente, se encarga de las comunicaciones de la exguerrilla;   quien lidero los asuntos de genero en las negociaciones;  , viuda de manuel marulanda, y  , comandante de las farc en el choco. 
+
+
+	(le puede interesar: ). 
+
+
+	para la camara de representante son:  , por bogota;  , por santander;  , por atlantico;  , por valle del cauca, y  , por antioquia.
+aux: la farc ya tiene personeria juridica  las curules de las farc en el congreso: ni muy poquito ni muy exagerado
+actores: ['timochenko', 'senado', 'senado']
+puntos: ['punto3', 'punto5']

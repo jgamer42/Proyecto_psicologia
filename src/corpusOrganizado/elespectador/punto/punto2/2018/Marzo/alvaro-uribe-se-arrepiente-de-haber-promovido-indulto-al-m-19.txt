@@ -1,0 +1,18 @@
+titulo: alvaro-uribe-se-arrepiente-de-haber-promovido-indulto-al-m-19
+Link: https://www.elespectador.com/politica/alvaro-uribe-se-arrepiente-de-haber-promovido-indulto-al-m-19-article-747474/
+fecha: 31/3/2018
+contenido: como senador, hace mas de 20 anos, uribe velez participo de manera activa en un proyecto en el legislativo que buscaba el indulto total a los exmilitantes de esa guerrilla, tras la firma de un acuerdo de paz. hoy, el expresidente dice que es un antecedente del mal ejemplo.
+dando respuesta a la lluvia de criticas que han caido sobre el  , el hoy senador del centro democratico argumento  con el que pedia el indulto total a los desmovilizados integrantes del m-19, que dos anos atras habian firmado un acuerdo de paz con el gobierno de virgilio barco. 
+
+  proferido en ese entonces por los denominados 'jueces sin rostro', con el que   quien era miembro del m-19, y a otros 25 dirigentes mas de la extinta guerrilla, quienes ya ocupaban una curul en el senado, al lado del entonces senador liberal. "los iban a judicializar. dije que les cumplieran", argumento uribe. 
+
+la citada decision judicial se dio porque la ley de indulto que habia sacado el expresidente barco excluia del perdon los delitos atroces cometidos por los exguerrilleros, incluido el de la  , cometida el 6 de noviembre de 1985, en donde    
+
+segun el expresidente uribe, el haberse convertido en el principal promotor del proyecto del indulto concedido al m-19 constituye un error del que se arrepiente  el presidente juan manuel santos, quiere otorgar de impunidad los hechos perpetrados por la antigua organizacion rebelde de las farc. 
+
+   asi lo afirmo el gobierno de la epoca. pero no. 25 anos despues el gobierno santos, no obstante conocer que despues del indulto al m19 el pais se inundo de narcoterrorismo, procedio a dar paso de impunidad total a farc", indico uribe velez a traves de su cuenta de twitter. 
+
+anadio el hoy senador, reelecto en los pasados comicios legislativos del 11 de marzo, que cuando llego a la presidencia, combatio el crimen  con contundencia y que el expresidente como miembro de una subcomision que se creo para darle celeridad a la iniciativa de indulto, tuvo que reunirse con el actual candidato presidencial y exnegociador de paz de la habana, humberto de la calle, quien ejercia como ministro de gobierno de cesar gaviria, quien lidero la asamblea nacional constituyente, con la que se dio origen a la constitucion de 1991.
+aux: 
+actores: ['gobierno', 'gobierno', 'gobierno', 'ministros', 'gobierno']
+puntos: ['punto2', 'punto3', 'punto5']

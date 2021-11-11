@@ -1,0 +1,15 @@
+titulo: gobierno-radico-la-primera-reforma-a-la-jep
+Link: https://www.elespectador.com/politica/gobierno-radico-la-primera-reforma-a-la-jep-article-848787/
+fecha: 4/4/2019
+contenido: el ejecutivo presento un acto legislativo que busca excluir los delitos sexuales contra menores de edad para que no tengan beneficios juridicos y sean investigados y sancionados por la justicia ordinaria. . la iniciativa, tal y como lo anuncio el presidente ivan duque el mismo dia que revelo las objeciones a la ley estatutaria de la jurisdiccion especial para la paz, pretende excluir de la justicia transicional los delitos sexuales cometidos por actores del conflicto contra los menores de edad. 
+
+ , que le dio vida a la jep. por eso, casi un mes despues la ministra borrero llego hasta el capitolio nacional con un proyecto de reforma constitucional al articulo 44 de la carta magna. 
+
+ 
+
+"hacemos entrega del proyecto de acto legislativo 038 de 2019 anunciado por el presidente de la republica en la alocucion del 10 de marzo cuando hizo publicas las objeciones, en la que dijo que, adicional a las objeciones, se iban a presentar unas reformas normativas.  y sin ningun tipo de concesion para aquellos que cometan delitos sexuales contra ninos y ninas. tenemos que fortalecer la obligacion que tenemos como estado de hacer todo para proteger a nuestros ninos". 
+
+en la practica, la iniciativa incluiria  ." el proyecto de reforma iniciara su tramite en este semestre y tendra hasta diciembre para ser tramitado, de lo contrario se hundiria.
+aux: 
+actores: ['ivan_duque', 'estado']
+puntos: ['punto3', 'punto5']

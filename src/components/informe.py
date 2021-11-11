@@ -27,33 +27,6 @@ def fechas_unicas():
     años.sort()
     return años
 
-def medioNoticia():
-    salida = {}
-    medios = ["eltiempo","elespectador"]
-    for medio in medios:
-        sql = f"SELECT link FROM noticia WHERE periodico='{medio}' AND fecha LIKE '%201%'"
-        noticias = ejecutarSql(sql)
-        noticias = list(set([noticia[0] for noticia in noticias]))
-        salida[medio] = len(noticias)
-    return salida
-
-def fechasNoticia():
-    años = fechas_unicas()
-    salida={}
-    for año in años:
-        salida[año] = {}
-        sql = f"SELECT link,fecha FROM noticia WHERE fecha LIKE '%{año}'"
-        noticias = ejecutarSql(sql)
-        for noticia in noticias:
-            mes = int(noticia[1].split("/")[1])
-            mes = difusorMeses(mes)
-            try:
-                #salida[año][mes].append(noticia[0])
-                salida[año][mes] += 1
-            except:
-                salida[año][mes] = 1
-                #salida[año][mes].append(noticia[0])
-    return salida
 
 def total_noticias():
     sql = f"SELECT * FROM noticia"
@@ -88,19 +61,19 @@ def totales(accion):
             salida[d] = len(noticias)
     return salida
 
-def porFechas(accion):
+def porFechas(accion,periodico):
     salida = {}
     años = fechas_unicas()
     data = getData(accion)
     for d in data:
         for año in años:
-            sql = f'''SELECT noticia.link,noticia.fecha 
+            sql = f'''SELECT noticia.titulo,noticia.fecha
             FROM noticia INNER JOIN {accion}_noticia, {accion} WHERE 
             {accion}.nombre='{d}' AND 
             {accion}_noticia.{accion}={accion}.id AND 
             noticia.fecha LIKE '%{año}' AND 
             noticia.id={accion}_noticia.noticia AND
-            noticia.periodico='elespectador'
+            noticia.periodico='{periodico}'
             '''
             noticias = ejecutarSql(sql)
             if len(noticias) != 0:
@@ -116,81 +89,12 @@ def porFechas(accion):
                     mes = int(noticia[1].split("/")[1])
                     mes = difusorMeses(mes)
                     try:
-                        salida[d][año][mes] += 1
+                        salida[d][año][mes].append(noticia[0])
                     except:
-                        salida[d][año][mes] = 1
-                        #salida[d][año][mes].append(noticia[0])
+                        #salida[d][año][mes] = 1
+                        salida[d][año][mes] =[noticia[0]]
     return salida
 
-def porMedio(accion):
-    salida = {}
-    medios = ["eltiempo","elespectador"]
-    data = getData(accion)
-    for d in data:
-        for medio in medios:
-            sql = f"SELECT noticia.link FROM {accion}_noticia,noticia INNER JOIN {accion} WHERE {accion}.nombre='{d}' AND {accion}_noticia.{accion}={accion}.id AND noticia.periodico='{medio}' AND noticia.id={accion}_noticia.noticia AND noticia.fecha LIKE '%201%'"
-            noticias = ejecutarSql(sql)
-            noticias = list(set([noticia[0] for noticia in noticias]))
-            if len(noticias) != 0:
-                try:  
-                    salida[d].keys()
-                except:
-                    salida[d] = {}
-                salida[d][medio] = len(noticias)
-    return salida
-
-def informeCompleto():
-    salida = {}
-    partidos = config["partidos"]
-    actores = config["agrupador"].keys()
-    puntos = config["palabras_clave"].keys()
-    medios = ["eltiempo","elespectador"]
-    fechas = fechas_unicas()
-    for medio in medios:
-        for partido in partidos.keys():
-            for actor in actores:
-                for punto in puntos:
-                    for fecha in fechas:
-                        if actor in partidos[partido]:
-                            query = f'''SELECT link,fecha FROM noticia INNER JOIN actor,actor_noticia,punto_noticia,punto,grupo WHERE
-                            noticia.fecha LIKE '%{fecha}' AND
-                            noticia.periodico = '{medio}' AND
-                            noticia.id=actor_noticia.noticia AND 
-                            noticia.id=punto_noticia.noticia AND
-                            punto_noticia.punto = punto.id AND
-                            punto.nombre='{punto}' AND
-                            actor.nombre='{actor}' AND
-                            actor.id=actor_noticia.actor AND
-                            actor.grupo=grupo.id AND
-                            grupo.nombre='{partido}'
-                            '''
-                            noticias = ejecutarSql(query)
-                            if len(noticias) != 0:
-                                try:
-                                    salida[partido].keys()
-                                except:
-                                    salida[partido] = {}
-                                try:
-                                    salida[partido][medio].keys()
-                                except:
-                                    salida[partido][medio] = {}
-                                try:
-                                    salida[partido][medio][punto].keys()
-                                except:
-                                    salida[partido][medio][punto] = {}
-                                try:
-                                    salida[partido][medio][punto][fecha].keys()
-                                except:
-                                    salida[partido][medio][punto][fecha] = {}
-                                for noticia in noticias:
-                                    mes = int(noticia[1].split("/")[1])
-                                    mes = difusorMeses(mes)
-                                    try:
-                                        salida[partido][medio][punto][fecha][mes].append(noticia[0])
-                                    except:
-                                        salida[partido][medio][punto][fecha][mes] = []
-                                        salida[partido][medio][punto][fecha][mes].append(noticia[0])
-    return salida
 
 
 def totalGrupos():
@@ -213,20 +117,20 @@ def totalGrupos():
 
     return salida
 
-def grupoFecha():
+def grupoFecha(periodico):
     salida = {}
     partidos = config["partidos"]
     años = fechas_unicas()
     for partido in partidos:
         for año in años:
-            sql = f'''SELECT DISTINCT noticia.link,noticia.fecha FROM noticia INNER JOIN actor,grupo,actor_noticia
+            sql = f'''SELECT DISTINCT noticia.titulo,noticia.fecha FROM noticia INNER JOIN actor,grupo,actor_noticia
             WHERE 
             actor.grupo=grupo.id AND
             grupo.nombre='{partido}' AND
             actor_noticia.actor=actor.id AND
             actor_noticia.noticia=noticia.id AND
             noticia.fecha LIKE '%{año}' AND
-            noticia.periodico='elespectador'
+            noticia.periodico='{periodico}'
             '''
             data = ejecutarSql(sql)
             if len(data) != 0:
@@ -242,19 +146,22 @@ def grupoFecha():
                     mes = int(noticia[1].split("/")[1])
                     mes = difusorMeses(mes)
                     try:
-                        salida[partido][año][mes] += 1
+                        #salida[partido][año][mes] += 1
+                        salida[partido][año][mes].append(noticia[0])
                     except:
-                        salida[partido][año][mes] = 1
+                        #salida[partido][año][mes] = 1
+                        salida[partido][año][mes] = [noticia[0]]
+                        
 
     return salida
 
-def grupoPunto():
+def grupoPunto(periodico):
     puntos = getData("punto")
     salida = {}
     partidos = config["partidos"]
     for partido in partidos:
         for punto in puntos:
-            sql = f'''SELECT DISTINCT link FROM noticia INNER JOIN punto,actor,actor_noticia,punto_noticia,grupo
+            sql = f'''SELECT DISTINCT titulo FROM noticia INNER JOIN punto,actor,actor_noticia,punto_noticia,grupo
             WHERE 
             noticia.id = punto_noticia.noticia AND
             noticia.id = actor_noticia.noticia AND
@@ -264,7 +171,7 @@ def grupoPunto():
             grupo.nombre='{partido}' AND
             punto.nombre='{punto}' AND
             noticia.fecha LIKE '%201%' AND
-            noticia.periodico='elespectador'
+            noticia.periodico='{periodico}'
             '''
             noticias = ejecutarSql(sql)
             if len(noticias) != 0:
@@ -272,12 +179,84 @@ def grupoPunto():
                     salida[partido].keys()
                 except:
                     salida[partido] = {}
+                    
                 salida[partido][punto] = len(noticias)
     return salida
 
+def totalesPartido():
+    salida = {}
+    partidos = config["partidos"]
+    periodicos = ["eltiempo","elespectador"]
+    for periodico in periodicos:
+        for partido in partidos:
+            sql = f'''SELECT DISTINCT link FROM noticia INNER JOIN actor,grupo,actor_noticia
+            WHERE 
+            noticia.id = actor_noticia.noticia AND
+            actor.id = actor_noticia.actor AND
+            noticia.fecha LIKE "%201%" AND
+            grupo.nombre = "{partido}" AND
+            noticia.periodico = '{periodico}' AND
+            grupo.id = actor.grupo
+            '''
+            noticias = ejecutarSql(sql)
+            if len(noticias) != 0:
+                try:
+                    salida[periodico].keys()
+                except:
+                    salida[periodico] = {}     
+                salida[periodico][partido] = len(noticias)
+    return salida
 
+def totalesPunto():
+    salida = {}
+    puntos = getData("punto")
+    periodicos = ["eltiempo","elespectador"]
+    for periodico in periodicos:
+        for punto in puntos:
+            sql = f'''SELECT DISTINCT link FROM noticia INNER JOIN punto,punto_noticia
+            WHERE 
+            noticia.id = punto_noticia.noticia AND
+            punto.id = punto_noticia.punto AND
+            noticia.fecha LIKE "%201%" AND
+            punto.nombre = "{punto}" AND
+            noticia.periodico = '{periodico}'
+            '''
+            noticias = ejecutarSql(sql)
+            if len(noticias) != 0:
+                try:
+                    salida[periodico].keys()
+                except:
+                    salida[periodico] = {}     
+                salida[periodico][punto] = len(noticias)
+    return salida
+    
 
+def totalesAño():
+    salida = {}
+    años = fechas_unicas()
+    periodicos = ["eltiempo","elespectador"]
+    for periodico in periodicos:
+        for año in años:
+            sql = f'''SELECT DISTINCT link FROM noticia
+            WHERE 
+            noticia.fecha LIKE "%{año}%" AND
+            noticia.periodico = '{periodico}'
+            '''
+            noticias = ejecutarSql(sql)
+            if len(noticias) != 0:
+                try:
+                    salida[periodico].keys()
+                except:
+                    salida[periodico] = {}     
+                salida[periodico][año] = len(noticias)
+    return salida
 #escritor.csvFechas(grupoPunto())
 #escritor.csvAños(grupoFecha())
+#print(grupoFecha("eltiempo"))
+#print(grupoPunto("eltiempo"))
 #escritor.csvAños(porFechas("punto"))
-print(totales("punto"))
+#print(totales("punto"))
+#print(totalesPartido("elespectador"))
+#escritor.csvFechas(totalesPartido())
+#escritor.csvFechas(totalesPunto())
+escritor.csvFechas(totalesAño())

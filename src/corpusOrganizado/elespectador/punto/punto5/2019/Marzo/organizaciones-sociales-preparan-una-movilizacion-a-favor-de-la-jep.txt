@@ -1,0 +1,13 @@
+titulo: organizaciones-sociales-preparan-una-movilizacion-a-favor-de-la-jep
+Link: https://www.elespectador.com/politica/organizaciones-sociales-preparan-una-movilizacion-a-favor-de-la-jep-article-844372/
+fecha: 11/3/2019
+contenido: este miercoles, a nivel nacional, se estan promoviendo manifestaciones para que las personas defensoras de la paz y del acuerdo suscrito en la habana, cuba, se reunan en las principales plazas publicas para pedir por el cumplimiento de lo pactado, tras las objeciones presentadas por ivan duque a la ley estatutaria que le pondria orden a la jep. este miercoles,  la iniciativa nacio dentro del grupo de personas que promovieron por redes sociales el #abrazoalajep, con el que demostraron su apoyo al tribunal transicional y le enviaron un mensaje al presidente ivan duque para que no  objetara la ley estatutaria. 
+
+al conocerse la decision del primer mandatario de hacer reparos a seis articulos de la ley estatutaria, la organizacion, junto a personalidades como rodrigo londono, "timochenko", lider del partido farc, llamaron a la movilizacion social pacifica para defender la paz y lo acordado en la habana, cuba.  
+
+  convocamos a todos los sectores sociales y politicos a reconstruir la posibilidad de paz, desde la moviliacion, las expresiones, artisticas, culturales y sociales. levantemos en cada lugar del pais nuestras banderas en defensa de la paz. 
+
+las objeciones, ademas de generar la preparacion para una movilizacion social, dieron pie a que sectores de la oposicion consideraran este hecho como un reves para la construccion de paz y un punto preocupante por un posible escenario de deserciones en el proceso de reinsercion de los exguerrilleros, quienes se encuentran a la espera de que el gobierno cumpla lo suscrito en la habana.
+aux: #defendamoslapaz
+actores: ['ivan_duque', 'ivan_duque', 'oposicion', 'gobierno']
+puntos: ['punto2', 'punto3', 'punto5']

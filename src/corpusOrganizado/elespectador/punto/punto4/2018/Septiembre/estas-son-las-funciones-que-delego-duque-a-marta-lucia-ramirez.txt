@@ -1,0 +1,15 @@
+titulo: estas-son-las-funciones-que-delego-duque-a-marta-lucia-ramirez
+Link: https://www.elespectador.com/politica/estas-son-las-funciones-que-delego-duque-a-marta-lucia-ramirez-article-810629/
+fecha: 6/9/2018
+contenido: el primer mandatario le asigno a la vicepresidenta las tareas relacionadas con infraestructura, la reconstruccion de mocoa y mantuvo otros asuntos asignados al cargo por decreto, como la politica antidrogas.  que establece las responsabilidades concretas que tendra a su cargo la vicepresidenta de la republica, marta lucia ramirez. y es que, segun la constitucion, corresponde al primer mandatario delegar las tareas y misiones que el considere pertinentes para que desarrolle su segundo o segunda a bordo. de esta manera, ramirez ejercera varias funciones a las que ella misma se habia anticipado poco despues de la posesion en la vicepresidencia. 
+
+por ejemplo, quedo establecido que ramirez va a liderar asuntos de transparencia y equidad de genero. adicionalmente, asumira la principal tarea que tuvo en su momento  , es decir, ejercer la supervision funcional de los sectores de transporte e infraestructura. y tambien, coordinar las actividades para la reconstruccion de mocoa (putumayo), que quedo sepultada en 2017 tras una avalancha que dejo por su paso mas de 300 muertos, 400 heridos, y 1.450 casas destruidas. 
+
+ 
+
+entre otras cosas, la vicepresidenta tambien estara a cargo de la coordinacion de las actividades para celebrar el  , de la     que convocara el presidente duque para impulsar la ciencia, la tecnologia y la innovacion; y podra ejercer  al del jefe de estado ante foros, conferencias y agendas bilaterales que defina la cancilleria. podra brindar asesoria en asuntos de competitividad y desarrollo empresarial, y ejercera la presidencia de la comision colombiana del oceano y del espacio. 
+
+  la vicepresidencia y para lo cual estuvo acompanada de entidades como la consejeria presidencial para los derechos humanos, la consejeria presidencial de seguridad, la direccion de seguimiento y evaluacion a los acuerdos de paz, la direccion de politica integral para la lucha contra las drogas ilicitas y la direccion de proyectos especiales.
+aux: 
+actores: ['martha_lucia', 'martha_lucia', 'martha_lucia', 'ivan_duque', 'estado']
+puntos: ['punto1', 'punto3', 'punto4', 'punto5']

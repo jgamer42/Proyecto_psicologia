@@ -1,0 +1,20 @@
+titulo: con-audiencias-previas-se-evaluaria-participacion-en-dialogos-con-el-eln
+Link: https://www.elespectador.com/politica/con-audiencias-previas-se-evaluaria-participacion-en-dialogos-con-el-eln-article-689258/
+fecha: 14/4/2017
+contenido: la delegacion de paz del eln respondio a una carta enviada por tres organizaciones sobre los mecanismos de participacion que tendra la sociedad en la mesa de dialogos con el gobierno. 
+	haciendo un llamado a  persistir en la busqueda de la participacion para la construccion de paz, la delegacion de paz del eln envio una carta  a tres organizaciones sociales respondiendo las inquietudes que se habian planteado sobre la necesidad de establecer los mecanismos para la participacion de la sociedad civil en la mesa de dialogos con el gobierno. 
+
+
+	en la misiva -dirigida a la  - el eln asegura que aunque en la mesa de dialogos se ha intentado desde el primer instante abordar el tema, aun no existen acuerdos claros pues "el gobierno ha condicionado cualquier avance sobre la participacion, a una imposicion unilateral sobre el tema de las retenciones, no obstante que este punto esta contemplado para acordarse en la submesa sobre "acciones y dinamicas humanitarias"". 
+
+
+	de acuerdo con la guerrilla, en la mesa se ha hablado de la puesta en marcha de una serie de intercambios que serviran para establecer la hoja de ruta del punto de ese punto de la agenda: "para tomar definiciones en lo referente al proceso mismo de participacion, mecanismos, metodologia, alcances, etc., estuvimos trabajando en la mesa la realizacion de unos intercambios previos, con distintos sectores de la sociedad tendientes a recoger las iniciativas, propuestas y experiencias de los mismos, sobre la participacion. a estos intercambios los hemos llamado  ". 
+
+
+	el texto explica que dichas audiencia seran en su mayoria presenciales y que convocaran tanto a procesos sociales como a gremios, representantes de iglesias, espacios institucionales, entre otros. el trabajo realizado en estos espacios permitiria tener los insumos para definir en la mesa el proceso de participacion que debe ser lo mas amplio posible. "del proceso de participacion o de dialogo nacional en torno a democracia para la paz, transformaciones y derechos de las victimas, es de esperar que se decanten unos cambios basicos urgentes, emanados de la sociedad misma, que soporten el proceso y los acuerdos de paz", senala la carta. 
+
+
+	segun la delegacion del eln se trata de una discusion que debe darse iniciando el segundo ciclo de negociacion en la mesa y para ello, ademas, propondran que las tres organizaciones vayan a la mesa para intercambiar las propuestas e iniciativas que han planteado sobre el tema : "es claro que estos procesos son complejos. lograr la participacion, su amplitud y los alcances de la misma, requerira de la presion y la exigencia de la sociedad misma y en especial de las grandes mayorias, a las cuales historicamente les ha sido negada la participacion. por ello, va nuestra voz de aliento para  ustedes y para los otros muchos sectores, fuerzas y procesos, que estan comprometidos con la busqueda de los cambios, la paz y la continuidad de estos procesos, a persistir, a multiplicar esfuerzos y a unir voluntades, para que sus voces y su capacidad de presion se multiplique y logren la fuerza necesaria para ser escuchados, participar e incidir en los rumbos del proceso y el pais".
+aux: 
+actores: ['gobierno']
+puntos: ['punto2', 'punto3']

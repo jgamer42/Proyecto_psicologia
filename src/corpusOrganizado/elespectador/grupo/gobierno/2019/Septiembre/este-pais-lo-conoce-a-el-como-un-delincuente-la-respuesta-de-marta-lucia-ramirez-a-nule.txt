@@ -1,0 +1,13 @@
+titulo: este-pais-lo-conoce-a-el-como-un-delincuente-la-respuesta-de-marta-lucia-ramirez-a-nule
+Link: https://www.elespectador.com/politica/este-pais-lo-conoce-a-el-como-un-delincuente-la-respuesta-de-marta-lucia-ramirez-a-nule-article-880814/
+fecha: 13/9/2019
+contenido: la vicepresidenta le salio al paso a las acusaciones del detenido empresario, quien la acuso de haber recibido dinero de liliana pardo, la hoy fugitiva exdirectora del idu, condenada por corrupcion. "este pais lo conoce a el como un delincuente y a mi como una mujer que ha trabajado siempre y con un servicio dedicado a colombia". de esta manera, la vicepresidenta marta lucia ramirez le respondio al condenado empresario miguel nule, quien en declaraciones entregadas ayer miercoles a w radio la califico como una "mentirosa" e incluso dijo que habia recibido dinero de liliana pardo, exdirectora del idu, condenada tambien en el escandalo del llamado "carrusel de la contratacion" en bogota, hoy profuga de la justicia. 
+
+ "puedo decir con total tranquilidad que no conozco a la doctora liliana. no he tenido jamas ninguna relacion con ella, ni de trabajo, ni de negocios, ni de amistad. jamas en mi vida he tenido ningun cuestionamiento etico a diferencia de ellos", enfatizo ramirez desde cartagena, donde participo en la asamblea de confecamaras. 
+
+segun nule, actualmente en casa por carcel, liliana pardo le habria dicho que le entregaba negocios y contratos a marta lucia ramirez. "como va esta senora, que pertenece a un grupo que se gano a traves de sobornos una concesion en la que yo sali afectado, a decir que no existio ninguna medida cautelar para que nosotros repararamos a las victimas, cuando yo he entregado 400 mil millones de pesos en acciones de enertolima, pero se lo robaron", le dijo a la emisora. 
+
+y a la pregunta sobre si tenia pruebas de sus graves acusaciones, respondio: "yo tengo pruebas concretas para demostrar que ella es una persona totalmente corrupta, porque mentir es corromper (...) bueno, se lo digo de una vez: ella recibia dinero de liliana pardo, que era la que manejaba los auxilios parlamentarios, pero para mi eso no era lo grave".
+aux: 
+actores: ['martha_lucia', 'martha_lucia']
+puntos: ['punto1', 'punto5']

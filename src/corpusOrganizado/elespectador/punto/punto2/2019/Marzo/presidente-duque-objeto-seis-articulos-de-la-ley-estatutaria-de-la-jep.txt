@@ -1,0 +1,53 @@
+titulo: presidente-duque-objeto-seis-articulos-de-la-ley-estatutaria-de-la-jep
+Link: https://www.elespectador.com/politica/presidente-duque-objeto-seis-articulos-de-la-ley-estatutaria-de-la-jep-article-844242/
+fecha: 11/3/2019
+contenido: como estaba previsto, el primer mandatario presento objeciones a la norma, que debera volver al congreso de la republica. anuncio que se presentara una reforma constitucional para modificar el acto legislativo 01 de 2017. 
+
+el presidente  decidio, como ya estaba previsto,  , que regula el sistema de justicia transicional, por inconveniencia. el anuncio fue realizado en la noche de este domingo en una alocucion televisada. 
+
+"he decidido realizar objeciones a seis de los 159 articulos de la ley estatutaria de la jurisdiccion especial para la paz por razones de inconveniencia e invitar a que el congreso de la republica las debata constructivamente", senalo el presidente. 
+
+ 
+
+ 
+
+presento, asimismo, objeciones al inciso octavo del   porque no determina el alcance de la competencia del alto comisionado para la paz para verificar las listas de quienes son reconocidos como miembros de grupos armados ilegales y que se sometan a un proceso de paz. segun duque, este proceso debe ser competencia del alto comisionado y "no es conveniente debilitar una atribucion que por anos ha tenido el alto comisionado para la paz para evitar que los delincuentes se oculten y ganen beneficios e impunidad". 
+
+tambien se objeto el  porque "no precisa las diligencias judiciales que la fiscalia debe abstenerse de realizar". para el primer mandatario, esto genera una situacion en contra de los intereses de las victimas y desperdicia "valiosos recursos investigativos de autoridades con experiencia y capacidad". 
+
+ 
+
+otra objecion fue al   "que trata de la renuncia a la accion penal frente a los crimenes de lesa humanidad, genocidio o crimenes de guerra en relacion con quienes no son maximos responsables. esa renuncia a la accion penal es inconveniente porque constituiria impunidad". duque expreso que "el estado no puede renunciar a perseguir a los responsables de los delitos de lesa humanidad sin haber agotado todos sus esfuerzos para encontrar la justicia y la verdad. 
+
+el presidente tambien objeto el   porque, a su juicio, es inconveniente al no precisar lo establecido en la ley de procedimiento de la jep "cuando expresa que la seccion de revision del tribunal de paz no puede practicar pruebas" en cuanto a las solicitudes de extradicion de personas, que se hubiesen acogido al proceso de paz y que cometieron crimenes con posterioridad a la firma del acuerdo. 
+
+por ultimo, objeto el   "porque se condiciona la extradicion de otras personas al ofrecimiento de la verdad sin establecer ningun tipo de termino ni oportunidad para hacerlo. segun duque, eso produce un incentivo perverso para el ingreso de terceros a la jep "bajo el ropaje de supuestos ofrecimientos de verdad. esa ambiguedad puede ser utilizada para eludir responsabilidades ante la justicia de otros estados. 
+
+ 
+
+ 
+
+los puntos que le preocupan al primer mandatario tienen que ver, primero, con la comision de delitos sexuales en contra de menores. por eso, buscara la exclusion de este tipo de delitos de la jurisdiccion de la justicia transicional. "nada, ninguna ideologia, justifica la aberrante agresion a los mas vulnerables de la sociedad", expreso. 
+
+tambien intentara mayor claridad en cuanto a que quienes reincidan en actividades criminales perderan todos los beneficios que contempla el acuerdo de paz. en ese mismo sentido, dejar claro que todas las actividades criminales que se hayan iniciado antes del 1deg de diciembre de 2016 y que continuen ejecutandose despues de esa fecha seran juzgados en la justicia ordinaria. 
+
+ 
+
+desde el pasado 8 de febrero, cuando el congreso envio a presidencia la ley estatutaria de la jep, el primer mandatario contaba con 20 dias habiles para tomar una decision sobre su sancion o su objecion. 
+
+fue ese ese mismo instante cuando se abrio un debate en el pais politico que, por un lado,  
+
+senalaban que la ley aprobada, a pesar de que contaba con la revision de la corte constitucional, que habia declarado su exequibilidad, contenia asuntos inconvenientes para el pais. 
+
+en concreto, el centro democratico y los sectores mas cercanos al uribismo han explicado que la justicia transicional que hace parte del acuerdo final de paz con las farc debe tener cambios en cuanto al trato de delitos sexuales contra menores, la extradicion y contemplar penas privativas de la libertad para crimenes de lesa humanidad. 
+
+ 
+
+por el otro lado, estaba los defensores de la implementacion y grupos de miembros de la fuerza publica que le pidieron al presidente sancionarla para no retrasar mas la mision de la jep.  
+
+de hecho, el exjefe negociador del gobierno en la habana, humberto de la calle, en un ejercicio de futurismo, publico en su cuenta de twitter una "noticia" en la que se informaba que el 30 de noviembre de 2019 el presidente duque sancionaba la norma luego de un largo periplo, intentando decir que lo que habia ocurrido durante todo el tiempo posterior a la objecion fue una perdida de tiempo. 
+
+el camino que le queda a la estatutaria de la jep, de ahora en adelante, es ir al congreso, que debera manifestar si esta de acuerdo con las objeciones realizadas por el presidente duque. si es asi, enmendarlas, debatirlas y, luego, enviarlas nuevamente a la corte constitucional.
+aux: 
+actores: ['fiscalia', 'victimas_conflicto', 'ivan_duque', 'estado', 'jep', 'jep', 'gobierno', 'ivan_duque']
+puntos: ['punto2', 'punto3', 'punto4', 'punto5']

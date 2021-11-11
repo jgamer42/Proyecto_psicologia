@@ -1,0 +1,15 @@
+titulo: debate-en-senado-a-la-politica-de-paz-en-la-era-duque
+Link: https://www.elespectador.com/politica/debate-en-senado-a-la-politica-de-paz-en-la-era-duque-article-846754/
+fecha: 25/3/2019
+contenido: en la comision segunda de senado, por citacion de ivan cepeda, se realizara este martes un debate de control politico al que fueron convocados para que rindan cuentas el comisionado de paz y los ministros de defensa, interior o agricultura, entre otros.al que altos funcionarios del gobierno de ivan duque estan convocados para que detallen en que sentido esta dirigida la politica de paz en la actual administracion. 
+
+para esto fueron convocados a  . de igual manera, se le extendio invitacion al fiscal general, nestor humberto martinez. 
+
+dentro del cuestionario que le fue enviado a los altos funcionarios del gobierno,  que fue aprobado en primer debate la semana pasada;  o  de implementacion. 
+
+cepeda tambien le pide cuentas al gobierno sobre  los avances del ; asi como tambien, le extiende un puntual cuestionario sobre retos en materia de desarrollo rural y de implementacion de  los acuerdos colectivos e individuales de sustitucion de cultivos de uso ilicito, y estrategias de ocupacion territorial por parte de la institucionalidad, incluyendo los planes de seguridad de la fuerza publica. 
+
+con este debate en  , que probablemente requieran de una serie de audiencias publica, que con seguridad seran de intensos debates politicos.
+aux: 
+actores: ['ministros', 'gobierno', 'ivan_duque', 'gobierno']
+puntos: ['punto1', 'punto3', 'punto4', 'punto5']

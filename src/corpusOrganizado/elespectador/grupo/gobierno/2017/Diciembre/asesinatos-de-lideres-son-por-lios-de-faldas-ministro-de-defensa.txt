@@ -1,0 +1,31 @@
+titulo: asesinatos-de-lideres-son-por-lios-de-faldas-ministro-de-defensa
+Link: https://www.elespectador.com/politica/asesinatos-de-lideres-son-por-lios-de-faldas-ministro-de-defensa-article-728893/
+fecha: 17/12/2017
+contenido: en entrevista con noticias uno, luis carlos villegas tambien afirmo que no hay una organizacion que este "asesinando a lideres sociales".
+
+
+	muy mal cayeron las declaraciones de  , ministro de defensa, a noticias uno en las que senala que la " 
+
+
+	en entrevista con el noticiero, villegas aseguro que corria el riesgo de generar muchos comentarios por las declaraciones, sin embargo, senalo que uno de cada dos asesinatos de lideres que ocurre tiene una explicacion judicial y que "no hay detras una organizacion que este asesinando lideres sociales".  
+
+
+	 
+
+
+	lo dicho por el alto funcionario llega pocos dias despues de que mas de 25 lideres sociales dieran una rueda de prensa en bogota, presentandose ante las camaras con mascaras, como acto simbolico de su temor por ser asesinados. 
+
+
+	por otra parte, un estudio reciente del instituto para el desarrollo y la paz (indepaz) senalo que  . "este fenomeno sigue recrudeciendose y la respuesta de los entes encargados de la proteccion y de las garantias para el activismo social y la defensa de derechos humanos sigue siendo muy insuficiente", le dijo carlos espitia, miembro del instituto, al diario la patria, de manizales. 
+
+
+	 
+
+
+	organizaciones internacionales, como amnistia internacional, tambien le han llamado la atencion al gobierno de santos por la sensible situacion de seguridad que hay en algunos territorios y que ponen en riesgo la vida de los lideres. por la misma razon, solicitaron medidas urgentes para garantizar la seguridad de lideres indigenas y afrodescendientes en el choco. 
+
+
+	no obstante, lo que dijo villegas tiene conexion con una de las posiciones que el mismo presidente santos ha sostenido respecto del tema de lideres sociales. el pasado 19 de octubre, en una alocucion, el primer mandatario anoto que, en cuanto a las muertes de estas personas, no se podia decir que habia un patron sistematico.
+aux: 
+actores: ['ministros', 'gobierno']
+puntos: ['punto3', 'punto4']

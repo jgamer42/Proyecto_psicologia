@@ -1,0 +1,21 @@
+titulo: detalles-del-segundo-cara-a-cara-entre-uribe-y-la-farc
+Link: https://www.elespectador.com/politica/detalles-del-segundo-cara-a-cara-entre-uribe-y-la-farc-article-853412/
+fecha: 2/5/2019
+contenido: la reunion termino sin consenso. el centro democratico propuso salvar una objecion, la de la extradicion, a cambio de no insistir en modificaciones al acuerdo de paz; mientras que la exguerrilla pidio que se reconociera la derrota para apoyar un posterior proyecto de acuerdo nacional. en el debate del miercoles el mismo senador y expresidente propuso decretar un receso y buscar un entendimiento sobre las objeciones presidenciales.   pedia votar un recurso de apelacion sobre la votacion de la sesion del martes, en la que 47 congresistas negaron los reparos presidenciales y 34 los aprobaron, pero paradojicamente el resultado desato un nuevo debate sobre cuantos respaldos constituyen la mayoria. 
+
+en esas gravitaba la discusion de la plenaria,   o el mismo definiria cual es la mayoria requerida. de manera que se suspendio la sesion para aproximar posiciones a puerta cerrada. incluso con la presencia de los senadores de las farc, que por segunda vez se sentaron frente a frente con el expresidente a buscar puntos de entendimiento. objeciones y dar por aprobadas las dos restantes, entre ellas la de extradicion y la de la lista de miembros de las farc en manos de la oficina del alto comisionado de paz. 
+
+ 
+
+  definida por macias y el secretario del senado, gregorio eljach, quienes consideraban que se necesitaban 48 votos para aprobar o hundir las objeciones. en este sentido, el bloque "propaz" pretendia dejar en firme la votacion del martes sobre las objeciones, que las daba por hundidas con 47 votos, ya que el gobierno solo obtuvo 34 apoyos.   que sostuvieron que cualquier propuesta de reforma al acuerdo de paz debia tenerlos en cuenta a ellos. 
+
+segun cuentan,   y que la votacion del martes ya era un hecho juridico y politico, asi que lo que quedaba era votar la apelacion interpuesta por el senador barreras y enviar el resultado de la votacion de las objeciones y de la apelacion a la corte constitucional para que ella defina. los testigos tambien relatan que, en desarrollo del encuentro,  a un acuerdo nacional que uniera el pais, dejando, en adelante, el acuerdo de paz sin nuevas modificaciones. 
+
+ 
+
+a lo anterior,  47 fueron excluidos a peticion de la misma organizacion que dejo las armas, ya que estos contaban con acreditacion por parte de la oficina del alto comisionado para la paz. de la misma manera, los senadores de la exguerrilla insistieron en que el unico acuerdo posible era dar por hundidas las objeciones y que, posteriormente, estarian dispuestos a sentarse con los partidos politicos y el gobierno para discutir cualquier tema. 
+
+  y estamos dispuestos a un acuerdo en ese sentido, pero es necesario cerrar ya esta discusion sobre la idea de cambiar el acuerdo", habrian dicho las farc en el encuentro. cuentan tambien que que aceptaran lo de la extradicion y que el centro democratico estaria dispuesto a firmar un documento comprometiendose a no tocar el acuerdo. la reunion termino sin acuerdo y obligo a continuar con el debate en la plenaria que, al final, tampoco decidio sobre el futuro de las objeciones.
+aux: 
+actores: ['gobierno', 'gobierno']
+puntos: ['punto2', 'punto3', 'punto5']

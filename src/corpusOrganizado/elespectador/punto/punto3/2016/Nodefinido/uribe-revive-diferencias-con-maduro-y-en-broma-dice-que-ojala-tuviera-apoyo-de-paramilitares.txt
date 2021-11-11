@@ -1,0 +1,7 @@
+titulo: uribe-revive-diferencias-con-maduro-y-en-broma-dice-que-ojala-tuviera-apoyo-de-paramilitares
+Link: https://www.elespectador.com/politica/uribe-revive-diferencias-con-maduro-y-en-broma-dice-que-ojala-tuviera-apoyo-de-paramilitares-article-639690/
+fecha: 24/0/2016
+contenido: en un evento desarrollado en la asamblea del tolima donde explicaba por que con los acuerdos de la habana "la paz queda herida", el exmandatario aprovecho para revivir las diferencias con el presidente de venezuela.la oposicion del expresidente alvaro uribe velez a los acuerdos de paz entra el gobierno y las farc no da tregua, como tampoco el enfrentamiento con el presidente de venezuela, nicolas maduro. en un evento realizado en la asamblea del tolima, ademas de explicar porque a su juicio con el acuerdo para el fin del conflicto "la paz queda herida", aprovecho para arremeter contra maduro.        el exmandatario tuvo un larga intervencion en la asamblea del tolima en la recogia los argumentos que expuso cuando se dio  a conocer el acuerdo para el cese al fuego con las farc, sobre el cual afirmo que " la intervencion del expresidente en la asamblea del tolima se dio por un homenaje que le rindieron al exmandatario a quien le entregaron al exmandatario quien recibio la orden al merito dario echandia.
+aux: 
+actores: ['oposicion', 'gobierno']
+puntos: ['punto2', 'punto3']

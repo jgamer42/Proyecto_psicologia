@@ -1,0 +1,25 @@
+titulo: comision-de-paz-pide-a-ernesto-macias-consultar-objeciones-a-la-corte-constitucional
+Link: https://www.elespectador.com/politica/comision-de-paz-pide-a-ernesto-macias-consultar-objeciones-a-la-corte-constitucional-article-844696/
+fecha: 13/3/2019
+contenido: el presidente del senado anuncio que, una vez comiencen las sesiones ordinaria, conformara una comision accidental para el estudio de los reparos del presidente ivan duque a la ley estatutaria de la jep. la comision de paz del congreso radico una proposicion ante la presidencia del senado para que ernesto macias, quien preside esa corporacion,  antes de iniciar cualquier debate en el congreso,  
+
+ , en el que se haya verificado la validez constitucional de cada una de las normas aprobadas por el legislativo a traves de una ley estatutaria", explican en la proposicion. 
+
+ 
+
+por tal motivo,   "de no pedir este concepto y que el congreso pase a tomar una decision sobre las objeciones presentadas, se puede configurar una extralimitacion en el ejercicio de las funciones por parte de los miembros del legislativo, quienes podrian estar, ademas, desconociendo lo previsto en un fallo judicial", resaltan los congresistas en la proposicion. 
+
+ "esta obligacion es vinculante durante tres periodos presidenciales completos, contados a partir de la fecha de la firma del acuerdo", recordaron. 
+
+el presidente de la camara, el liberal  "para no hacer que los congresistas caigan en alguna falta tal como lo ha advertido el procurador", dijo chacon. 
+
+ 
+
+fernando carrillo, procurador general de la nacion, sostuvo que "la decision del mandatario va a generar un enfrentamiento innecesario entre los poderes publicos y a abrir un espacio de inseguridad juridica sobre el cumplimiento de los compromisos del acuerdo final". 
+
+por su parte, el presidente del senado, ernesto  y presente un informe ante la plenaria del senado para que sea votado. 
+
+los congresistas que radicaron la proposicion son roy barreras (de la u), antonio sangunino (alianza verde), ivan cepeda (polo democratico), maria jose pizarro (decentes) y angela maria robledo (colombia humana). todos de la comision de paz del congreso.
+aux: 
+actores: ['senado', 'ivan_duque', 'senado', 'senado']
+puntos: ['punto2', 'punto3', 'punto5']

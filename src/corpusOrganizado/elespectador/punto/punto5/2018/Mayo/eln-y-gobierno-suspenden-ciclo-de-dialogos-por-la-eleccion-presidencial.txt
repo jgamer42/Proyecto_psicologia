@@ -1,0 +1,17 @@
+titulo: eln-y-gobierno-suspenden-ciclo-de-dialogos-por-la-eleccion-presidencial
+Link: https://www.elespectador.com/politica/eln-y-gobierno-suspenden-ciclo-de-dialogos-por-la-eleccion-presidencial-article-790640/
+fecha: 25/5/2018
+contenido: las delegaciones de paz regresaran a la habana el 30 de junio y trabajaran hasta el 12 de junio con el objetivo de sellar un acuerdo de cese bilateral del fuego.
+
+con un breve comunicado, las delegaciones de paz del gobierno y el eln, anunciaron que el quinto ciclo de negociaciones queda suspendido mientras el pais define quien sera el sucesor del presidente juan manuel santos. " . el sexto ciclo tendra inicio el 20 de junio en la habana (cuba)", detallaron los jefes negociadores de paz es su comunicado conjunto. 
+
+ademas, los delegados de paz informaron que, en desarrollo del actual ciclo de conversaciones, que se adelanta desde hace 15 dias, se ha " y proyectar un acuerdo marco que permita avanzar hacia el acuerdo final". 
+
+para esto, se instalo un comite tecnico que trabaja en el diseno de un nuevo cese al fuego, y del cual hacen parte oficiales activos de la fuerza publica.  ". y al mismo tiempo, alberto brunori, cabeza de la oficina del alto comisionado de onu para los derechos humanos, entrego "un informe sobre la situacion de la poblacion carcelaria, en particular de los presos del eln". 
+
+valga recordar que este ciclo de negociaciones ha sufrido duros percances. oficialmente se instalaria el 10 de enero, dia en el cual finalizaba el cese bilateral y temporal. . pasaron tres meses en los que hubo mediacion de importantes personalidades publicas, delegados de la comunidad internacional y de la iglesia catolicas, quienes lograron que las partes llegaran a un acuerdo para reiniciar la mesa de negociaciones. 
+
+luego vino la suspension del papel de garante por parte del gobierno del ecuador que, en respuesta al asesinato de tres periodistas ecuatorianos, anuncio la expulsion de la mesa de negociaciones. las delegaciones de paz se trasladaron a la habana (cuba), donde sesionan desde el pasado 10 de mayo.
+aux: 
+actores: ['gobierno', 'gobierno']
+puntos: ['punto3', 'punto4', 'punto5']

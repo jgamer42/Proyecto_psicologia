@@ -1,12 +1,11 @@
-from enum import auto
+
+import unidecode
 import requests
 import os
 import json
 from slugify import slugify
 from lxml import html
 from dotenv import load_dotenv
-import time
-import random
 load_dotenv() 
 import site
 site.addsitedir(os.getenv("PROJECT_PATH")+"/src")
@@ -27,8 +26,8 @@ def procesar(link):
     salida = json.load(archivo)
     salida["titulo"] = slugify(titulo[0])
     salida["fecha"] = fechas.normalizar(fecha[0])
-    salida["contenido"] = " ".join(contenido)
-    salida["aux"] = " ".join(contenido_auxiliar)
+    salida["contenido"] = unidecode.unidecode(str(" ".join(contenido)).lower().strip())
+    salida["aux"] = unidecode.unidecode(str(" ".join(contenido_auxiliar)).lower().strip())
     salida["medio"] = "eltiempo"
     salida["link"] = link
     salida["autor"] = autor[0]

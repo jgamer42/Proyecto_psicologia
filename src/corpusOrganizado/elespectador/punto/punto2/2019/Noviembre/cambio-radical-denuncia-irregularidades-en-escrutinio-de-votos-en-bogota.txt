@@ -1,0 +1,22 @@
+titulo: cambio-radical-denuncia-irregularidades-en-escrutinio-de-votos-en-bogota
+Link: https://www.elespectador.com/politica/cambio-radical-denuncia-irregularidades-en-escrutinio-de-votos-en-bogota-article-891290/
+fecha: 15/11/2019
+contenido: segun la colectividad, las comisiones escrutadoras estan quitandole mas de 2000 votos en el conteo de la votacion al concejo. si la denuncia no prospera, perderian una de las cinco curules que habian logrado en un principio, que pasaria a la colombia humana. 
+este viernes cambio radical denuncio presuntas irregularidades que los llevarian a perder una de las cinco curules que en principio ganaron en el concejo de bogota. segun el preconteo de la registraduria, el dia de las elecciones esa colectividad quedo con 237.628 votos, siendo la cuarta con mas apoyos (luego del centro democratico, el partido liberal y la alianza verde).  
+
+ 
+
+pero, la cantidad obtenida estaria cambiando considerablemente en los formularios e-14 y e-24 en varias zonas de bogota. en el conteo de las comisiones escrutadoras varias mesas ha reducido en algunas ocasiones a cero o a la mitad el resultado original, generando preocupacion en cambio radical sobre como se esta llevando a cabo esa revision.  
+-- cambio radical (@pcambioradical)  
+ 
+
+por ello, la colectividad radico una serie de quejas a la comision escrutadora, pero manifesto que no las han atendido. decidio, entonces, elevar las quejas a la procuraduria, fiscalia y a la comision escrutadora distrital. el director del partido detallo que se estan presentando casos en los que cambio radical contaba con 31 votos en el formulario e-14, pero en el e-24 se reportaban cero de esos validos.  
+
+ 
+
+"hemos presentado muchas reclamaciones ante la registraduria, pero en un porcentaje minimo son atendidas, a comparacion de colombia humana que le han resuelto en su totalidad las reclamaciones, exigimos igualdad y transparencia en este proceso", manifesto cordoba sobre el asunto.  
+
+ahora, el lio, como lo presenta, beneficiaria a colombia humana. esa curul, en caso de que la colectividad la pierda, quedaria en manos del movimiento creado por el senador gustavo petro. el llamado de atencion lo hace, tambien, para se solucionen las irregularidades actuales, y que no se presenten nuevas pues el proceso aun no termina. falta registrar los resultados del escrutinio en usaquen, suba, chapinero y ciudad bolivar.
+aux: november 15, 2019
+actores: ['fiscalia']
+puntos: ['punto2', 'punto3', 'punto5']

@@ -1,0 +1,27 @@
+titulo: la-aplicacion-de-los-acuerdos-con-la-farc-sera-mas-larga-emilio-archila
+Link: https://www.elespectador.com/politica/la-aplicacion-de-los-acuerdos-con-la-farc-sera-mas-larga-emilio-archila-article-859955/
+fecha: 10/5/2019
+contenido: desde espana, el alto consejero para el posconflicto advirtio que la aplicacion del acuerdo de reincorporacion de los excombatientes a la vida civil podria requerir siete u ocho anos, frente a los dos y medio estipulados al principio. y enfatizo que el gobierno duque esta comprometido con la aplicacion de los acuerdos de paz. la implementacion de los acuerdos de paz con la hoy desmovilizada guerrilla de la farc sera mas larga de lo previsto, advirtio el alto consejero para el posconflicto, emilio archila, en entrevista con la agencia efe en madrid, espana. sin embargo, el funcionario recalco el compromiso del gobierno de ivan duque con el cumplimiento de lo pactado. 
+
+"el presidente esta absolutamente comprometido con la aplicacion exitosa de los acuerdos", insistio archila, quien, ante los problemas de violencia politica que sigue afrontando el pais, subrayo el esfuerzo de las autoridades con mejorar la proteccion a los desmovilizados y a los lideres populares, varios cientos de los cuales han sido asesinados en el ultimo ano, negando ademas que el gobierno haya actuado con lentitud. 
+
+de hecho, la oficina de derechos humanos de la onu alerto este viernes en ginebra del fuerte aumento del numero de lideres sociales asesinados en colombia, ya que se han registrado 51 casos solo en los primeros cuatro meses de este ano. esas cifras llegan despues de que, en 2018, la violencia politica causo 648 asesinatos en el pais, segun un informe divulgado recientemente por el centro de investigacion y educacion popular, cinep. 
+
+archila, quien adelanta una gira por europa, culpo de gran parte de esa violencia a "grupos armados que operan en las zonas donde antes actuaban las farc", en general relacionados con los programas voluntarios de sustitucion de cultivos de coca. y recordo tambien que el presidente duque anuncio, el pasado martes, la creacion de un cuerpo especial de magistrados para investigar y perseguir a los responsables de amenazas y crimenes contra los lideres sociales. 
+
+aun asi, preciso que segun las cifras oficiales "no ha habido aumento de los ataques contra lideres sociales", aunque "eso no le resta trascendencia al tema", y garantizo "la preocupacion del gobierno por proteger" a ese colectivo. "la mejora de la seguridad es muy prioritario para nosotros y se han creado plantes de proteccion muy robustos", senalo. de paso, recordo lo sucedido a finales de los anos 80, cuando miles de lideres y miembros de la union patriotica fueron asesinados: "no vamos a permitir que eso suceda nuevamente". 
+
+sin embargo, aclaro archila, de lo excombatientes de las farc muertos de forma violenta desde la firma de los acuerdos de paz, unos 120 segun informaciones de prensa, en "solo tres casos" se ha establecido una motivacion politica, con los acusados ya identificados o detenidos. 
+
+el alto consejero para el posconflicto recalco igualmente que las objeciones presidenciales a la ley estatutaria de la jurisdiccion especial para la paz (jep), sobre las que la corte constitucional debera tomar una decision, no supone "de ninguna manera" un intento gubernamental de modificar los acuerdos de paz por la puerta de atras. "ninguna de las garantias fundamentales para los excombatientes esta en esos seis articulos objetados", enfatizo. 
+
+ 
+
+archila reconocio que la aplicacion de parte de los acuerdos requerira mas tiempo del previsto inicialmente. por ejemplo, dijo, la aplicacion del acuerdo de reincorporacion de los excombatientes a la vida civil podria requerir siete u ocho anos, segun experiencias de otros procesos internacionales, frente a los dos y medio estipulados al principio. 
+
+pero mas tiempo aun tardaran los planes a largo plazo para crear infraestructuras en las zonas rurales mas abandonadas, como agua, alcantarillado o comunicaciones, que pueden extenderse por diez o quince anos. segun los datos entregados por el funcionario, todo el proceso tiene un presupuesto de unos $120 billones (cerca de us $37.000 millones), en el que es fundamental el vital apoyo internacional, especialmente el de la union europea, impulsado en buena parte por espana. 
+
+finalmente, archila se refirio a la situacion con respecto a venezuela, calificando a nicolas maduro como un "usurpador" y advirtiendo que en la frontera comun conviven "todos los males posibles", como narcotrafico, la presencia del eln, el comercio ilegal de oro o el contrabando de gasolina. "si maduro sigue ahi, mi trabajo es mucho mas dificil", concluyo.
+aux: 
+actores: ['gobierno', 'ivan_duque', 'gobierno', 'ivan_duque', 'gobierno', 'ivan_duque', 'gobierno']
+puntos: ['punto3', 'punto4', 'punto5']

@@ -3,7 +3,7 @@ import urllib
 def buscar(pagina):
     site = f"https://www.{pagina}.com/politica/"
     palabra = "acuerdos de paz"
-    query = f"site:{site} {palabra} after:2015 before:2020"
+    query = f"site:{site} {palabra} after:2015-12-01 before:2020-12-31"
     salida = []
     try:
         data = search(query,tld="com",lang="es",pause=30.0,stop=None)

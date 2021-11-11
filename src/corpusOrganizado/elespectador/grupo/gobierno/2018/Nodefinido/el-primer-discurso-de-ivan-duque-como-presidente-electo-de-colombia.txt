@@ -1,0 +1,9 @@
+titulo: el-primer-discurso-de-ivan-duque-como-presidente-electo-de-colombia
+Link: https://www.elespectador.com/politica/el-primer-discurso-de-ivan-duque-como-presidente-electo-de-colombia-article-795007/
+fecha: 18/0/2018
+contenido: luego de que se conocieran los resultados de la segunda vuelta, ivan duque marquez llamo a la unidad a los colombianos en las primeras palabras que entregaba al pais como mandatario electo para el periodo 2018-2022. logro quedarse con la casa de narino luego de una intensa campana a la presidencia de colombia. en la segunda vuelta electoral supero a su directo contrincante gustavo petro, de la colombia humana, por mas de dos millones de votos y, asi, consolido el regreso del uribismo al poder. 
+
+en su primer discurso al pais, desde el lugar en el que recibio los resultados,  , senalo que no fracturara la justicia y anuncio que trabajara para hacerle loq ue califico como correcciones al acuerdo de paz.
+aux: 
+actores: ['ivan_duque']
+puntos: []

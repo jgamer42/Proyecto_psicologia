@@ -1,0 +1,26 @@
+titulo: en-que-va-el-consenso-uribista-para-elegir-candidato-a-la-presidencia
+Link: https://www.elespectador.com/politica/en-que-va-el-consenso-uribista-para-elegir-candidato-a-la-presidencia-article-705864/
+fecha: 1/7/2017
+contenido: el primer paso esperado es que los precandidatos analicen si sus campanas han podido "despegar" y tomen una decision al respeto. de no ser asi, se contempla la realizacion de encuestas para definir quien llevara las banderas del uribismo en la contienda electoral por la presidencia en 2018.
+	la propuesta de consenso enviada por la bancada del centro democratico (cd) al senador   puede generar lecturas diferentes. el mensaje desde el grupo de congresistas es de unidad y es evidente    
+
+
+	"consideramos nuestro deber y una obligacion, no solamente opinar, sino aportar a las decisiones importantes del partido", escribieron en una carta entregada al expresidente y lider del cd. el reto manifiesto es evitar al maximo las fracturas que puede generar una eleccion interna entre candidatos, sin embargo, algunas versiones tambien sugieren que a traves de este mecanismo se podria hacer frente a las dudas que genera el nombre de ivan duque entre los seguidores mas fervientes del uribismo. 
+
+
+	el senador alfredo rangel considera que eso no tiene ningun asidero en realidad, senalando que duque siempre ha manifestado estar de acuerdo con la linea oficial del centro democratico y  , a pesar de que puede haber quienes opinen lo contrario. 
+
+
+	sobre ese asunto, el senador ernesto macias cita la caricatura que genero el resultado de una pasada encuesta, en la que la gente senalo que votaria por "el que diga uribe". en ese sentido, asegura que la bancada estara, en ultimas, comprometida con el candidato que salga de ese consenso, sobre el que el expresidente uribe ya habria hecho una venia.  
+
+
+	la propuesta es sencilla. uno, que sean los precandidatos quienes acepten la realidad de sus aspiraciones, a la luz de las posibilidades de llegar, y decidan individualmente hacerse a un lado.  
+
+
+	ahi es donde esta la ventaja de duque, que de los precandidatos del uribismo vendria siendo el hombre fuerte en la opinion publica. incluso, ya fue medido junto a otros precandidatos de partidos diferentes en la reciente encuesta de la firma guarumo y dio la sorpresa al puntear por encima de claudia lopez, german vargas lleras y gustavo petro. 
+
+
+	todo parece indicar que el apoyo iria, indiscutiblemente, al candidato que senale el expresidente. sin embargo, desde el centro democratico hay conciencia de que se debe tener en cuenta la realidad de cada candidatura y que, en medio de un escenario polarizado y renido, mas vale un candidato pragmatico que uno radical.
+aux: (lea: uribismo pide consenso para definir candidato presidencial) (lea tambien: "los favoritos de uribe somos todos": carlos holmes trujillo)
+actores: ['ivan_duque', 'ivan_duque']
+puntos: ['punto5']

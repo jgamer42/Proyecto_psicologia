@@ -8,10 +8,10 @@ print("buscando en google")
 links = google.buscar("eltiempo")
 print("filtrando")
 try:
-    filtredLinks = eltiempo.filtro_Autor(links)
+    filtredLinks = eltiempo.filtrar(links)
 except:
     time.sleep(800)
-    filtredLinks = eltiempo.filtro_Autor(links)
+    filtredLinks = eltiempo.filtrar(links)
 for link in filtredLinks:
     print(f"procesando:{link}")
     try:
@@ -29,7 +29,7 @@ print("el espectador")
 print("buscando en google")
 links = google.buscar("elespectador")
 print("filtrando")
-filtredLinks = elespectador.filtro_Autor(links)
+filtredLinks = elespectador.filtrar(links)
 for link in filtredLinks:
     print(f"procesando:{link}")
     try:

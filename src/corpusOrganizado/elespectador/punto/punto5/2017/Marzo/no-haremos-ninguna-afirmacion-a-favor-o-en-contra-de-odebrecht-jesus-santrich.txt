@@ -1,0 +1,28 @@
+titulo: no-haremos-ninguna-afirmacion-a-favor-o-en-contra-de-odebrecht-jesus-santrich
+Link: https://www.elespectador.com/politica/no-haremos-ninguna-afirmacion-a-favor-o-en-contra-de-odebrecht-jesus-santrich-article-683202/
+fecha: 6/3/2017
+contenido: el jefe guerrillero senalo que el hecho de estas en transicion a la legalidad no los convierte en delatores.
+
+
+	el comandante guerrillero jesus santrich afirmo, en entrevista con el diario argentino  , que 
+
+
+	senalo que hoy son un grupo armado en transito a la legalidad y que diran la verdad sobre lo que haya imputaciones, pero que "decir la verdad no es convertirse en delator".  
+
+
+	las respuestas de santrich llegan en medio de las informaciones conocidas el sabado en las que se senalaban que la multinacional brasilena odebrecht habria entregado, desde 1990, dineros a las farc para poder acceder a los territorios que eran controlados por la guerrilla. 
+
+
+	 
+
+
+	el jefe guerrillero comparo el caso de odebrecht con los fusiles estadounidenses de la guerrilla: "preguntense entonces sobre los fusiles americanos que tenemos. ?quien nos los dio? ?la embajada gringa? estamos en transicion a la legalidad, pero eso no nos convierte en delatores", dijo santrich. 
+
+
+	sobre el asunto, pastor alape, tambien miembro del secretariado de las farc, senalo que no tiene conocimiento de que la insurgencia haya recibido financiacion por parte de la brasilena. 
+
+
+	por su parte, odebrecht senalo en un comunicado que las afirmaciones realizadas por la revista eran "especulaciones" y nego que se hubiesen hecho pagos a las farc para garantizar la seguridad de las obras en colombia.
+aux: pagina 12 (lea: odebrecht habria dado dinero a las farc en los ultimos 20 anos)
+actores: []
+puntos: ['punto2', 'punto3', 'punto5']

@@ -1,0 +1,7 @@
+titulo: barack-obama-ya-tiene-en-sus-manos-el-acuerdo-de-paz-con-las-farc
+Link: https://www.eltiempo.com/politica/proceso-de-paz/santos-entrego-acuerdo-de-paz-a-barack-obama-39738
+fecha: 21/9/2016,
+contenido: este miercoles, el presidente juan manuel santos tuvo varios compromisos en nueva york. en la manana, cumplio con uno de sus propositos claves de su viaje a la asamblea de naciones unidas en nueva york:  enseguida dio   en el que hablo sobre los acuerdos concretados en la habana con las farc y el fin de la guerra en colombia.  en la tarde,  durante el encuentro, el presidente obama dijo que se sentia "orgulloso de ser aliado de colombia" en el "proyecto de paz".  el presidente estadounidense confirmo que john kerry, secretario de estado de ee. uu., asistira al evento protocolario de la firma de la paz este 26 de septiembre en cartagena. en el encuentro con obama, el presidente santos tambien le entrego una coleccion de  politica
+aux: 
+actores: ['estado']
+puntos: ['punto3']

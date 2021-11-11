@@ -1,0 +1,49 @@
+titulo: que-piensan-los-colombianos-de-la-protesta-social
+Link: https://www.elespectador.com/politica/que-piensan-los-colombianos-de-la-protesta-social-article-894306/
+fecha: 4/12/2019
+contenido: segun los resultados de la mas reciente encuesta invamer, la gran mayoria de los ciudadanos esta de acuerdo con que se realicen manifestaciones o protestas publicas. sin embargo, los actos violentos y vandalicos son rechazados casi por unanimidad.segun la mas reciente encuesta de invamer, los colombianos siguen estando de acuerdo con que se realicen manifestaciones y protestas publicas. sin embargo, su aceptacion bajo tres puntos porcentuales con respecto al 19 de octubre, fecha de la anterior medicion y epoca en la que aun no se vislumbraba el paro nacional que hoy protagoniza en el pais. en esa entrega de resultados, la aprobacion de la protesta social  
+
+ 
+
+ahora, con respecto a la pregunta "?esta usted de acuerdo/ desacuerdo con que el esmad intervenga cuando hay manifestaciones y protestas que afecten a otros ciudadanos?", son mas los ciudadanos que estan de acuerdo, frente a los que no. mientras que la aceptacion de esa medida crecio un punto porcentual con respecto al 19 de octubre, el porcentaje de quienes desaprueban se mantiene. especificamente, el 58 % de las personas estan de acuerdo con el accionar del escuadron antidisturbios en las protestas sociales, mientras que el 40 % no le gusta esta intervencion.  
+
+ 
+
+uno de los resultados mas dicientes aparecio cuando se les pregunto a 600 encuestados sobre su opinion frente a que los manifestantes se reunan en lugares publicos " y protesten de forma pacifica".  ese punto solo se midio en el gobierno de ivan duque, no fue comparativo con otra gerencia.  
+
+otros resultados igual de heterogeneos a la pregunta anterior fueron los derivados de la pregunta: "?esta de acuerdo/ desacuerdo con que los manifestantes actuen de forma violenta contra vehiculos, establecimientos, transporte publico?". 99 % de las personas lo desaprobo, y tan solo el 1 % lo acepto.  
+
+ 
+
+ahora, el 80 % (base de 1.200 encuestados) cree que las manifestaciones son organizadas o motivadas por gente del comun, frente al 19 % que no piensa eso. en esa misma linea, el 62 % afirmo que esas expresiones ciudadanas son convocadas por sectores politicos de oposicion, pero el 34 % niega ese supuesto. la respuesta estuvo mas renida cuando les preguntaron   el 50 % cree que si las organizan esos sectores,  
+
+ 
+
+ en realidad, el 62 % atribuyo esa violencia a los denominados infiltrados, y el 32 % a ambos grupos. el 2 % no sabe o no respondio.  
+
+finalmente, el 52 % de las personas acepto que alguna vez se habia visto afectado por una protesta publica. el 48 % dijo que no.  
+
+ 
+
+persona natural o juridica que la encomendo: invamer s.a.s., para su venta por suscripcion. 
+
+fuente de financiacion: recursos propios de invamer s.a.s. 
+
+objetivos: medir la favorabilidad y aprobacion del presidente, personajes e instituciones en colombia. sondear la opinion publica sobre hechos de actualidad. evaluar la opinion que tiene la gente en general de colombia y del presidente ivan duque marquez. medir el concepto de la gente frente a problematicas colombianas actuales. observar el nivel de aceptacion de la gente respecto a leyes, propuestas o afirmaciones del momento. realizar un sondeo general en las ciudades principales del pais sobre la labor del alcalde respectivo y la forma como la gente esta percibiendo su ciudad. 
+
+universo: hombres y mujeres de 18 o mas anos, de todos los niveles socio-economicos, residentes en: bogota (5.993.411), medellin (1.980.292), cali (1.787.762), barranquilla (883.192) y bucaramanga (395.890), para un total de 11.040.457 personas, segun proyecciones dane. 
+
+marco muestral: para la realizacion de este estudio se implemento una metodologia llamada marcos duales, es decir, se hace uso de dos marcos muestrales (linea fija y generacion de numeros celulares), para seleccionar a las personas. el cubrimiento telefonico en las 5 grandes ciudades, segun censo del dane, es del 85%. los hogares con linea telefonica son: bogota 1.713.072, medellin 613.437, cali 491.782, barranquilla 185.966 y bucaramanga 143.796. total 3.148.053. para el marco de linea celular se cuenta con un marco de numeros aleatorios generados por invamer. 
+
+tamano y distribucion de la muestra: 1.200 encuestas (800 telefonia fija y 400 telefonia celular) distribuidas de la siguiente manera: bogota 400 encuestas (240 telefonia fija y 160 telefonia celular), medellin 200 encuestas (140 telefonia fija y 60 telefonia celular), cali 200 encuestas (140 telefonia fija y 60 telefonia celular), barranquilla 200 encuestas (140 telefonia fija y 60 telefonia celular) y bucaramanga 200 encuestas (140 telefonia fija y 60 telefonia celular); ademas de la distribucion por niveles socio-economicos de manera proporcional a la poblacion. para ajustar la muestra total al tamano real del universo de cada ciudad, se aplican factores de ponderacion. 
+
+sistema de muestreo: se llevo a cabo un muestreo probabilistico por etapas dependiendo del tipo de marco muestral. para el marco de telefonia fija, primero se realizo una seleccion aleatoria sistematica de hogares con telefonia fija y posteriormente se realiza una seleccion aleatoria simple de una persona de 18 anos o mas. para el marco de telefonia celular se llevo a cabo una seleccion aleatoria de personas mayores de 18 anos. 
+
+margen de error: los margenes de error dentro de unos limites de confianza de un 95%, son: para el total de la muestra de las 5 ciudades +/- 2,83%; para el total de la muestra de bogota +/- 4,90%; para los totales de las muestras de medellin, cali, barranquilla y bucaramanga +/-6,86%. tecnica de recoleccion de datos: encuestas telefonicas asistidas por computador (cati). 
+
+fecha de recoleccion de los datos: del 22 al 30 de noviembre de 2019. 
+
+metodo de validacion: se reviso el 100% de las encuestas realizadas y se superviso el 15% de las mismas.
+aux: 
+actores: ['gobierno', 'ivan_duque']
+puntos: ['punto2', 'punto3', 'punto5']

@@ -1,0 +1,25 @@
+titulo: departamento-de-estado-de-ee-uu-no-retira-a-las-farc-de-lista-de-grupos-terroristas
+Link: https://www.elespectador.com/politica/departamento-de-estado-de-ee-uu-no-retira-a-las-farc-de-lista-de-grupos-terroristas-article-813131/
+fecha: 19/9/2018
+contenido: este miercoles se conocio el informe de 2017 que reporta la actividad terrorista a nivel mundial realizada por este despacho del gobierno estadounidense. junto a la exguerrilla, tambien se encuentra el eln.pese a que la exguerrilla de las farc se desmovilizo a finales de 2016 tras la firma del acuerdo de la habana con el gobierno de juan manuel santos,  
+
+"colombia experimento una disminucion continua de la actividad terrorista en 2017 en gran medida por el acuerdo de paz de noviembre de 2016 con las fuerzas armadas revolucionarias de colombia(farc). la onu finalizo la fase de desarme de su mision de monitoreo, recolectando 8.994 armas, 1.7 millones de rondas y mas de 40 toneladas de explosivos. el gobierno acredito a, aproximadamente, 11.000 excombatientes para la transicion a la vida civil. sin embargo ", se lee en el documento. 
+
+ 
+
+de acuerdo con lo que describen, con informacion del gobierno de colombia, los incidentes terroristas en 2017 disminuyeron un 40% en relacion con 2016, en los que no se incluyen los ataques de grupos del crimen organizado. por ende,  
+
+" . no obstante, el gobierno colombiano clasifica a los disidentes de la guerrilla como criminales. si bien las motivaciones ideologicas de tales grupos y las conexiones en curso con las farc desmovilizadas no estan claras, 
+
+en el documento, expresan ademas su preocupacion por la implementacion del acuerdo que ha sido lento, causando disertacion por parte de algunos de los integrantes que deciden volver a la actividad criminal. 
+
+ademas de las farc,   y describe algunos de los hechos registrados durante 2017: 45 ataques al oleoducto cano limon covenas y las muertes de algunos lideres sociales y civiles. 
+
+por otro lado, 
+
+senalan tambien como problema la falta de presencia del estado en las fronteras con brasil, ecuador, peru y venezuela, sirviendo estas delimitaciones como refugio para estos grupos. que ayuda a la presencia de estos grupos ilegales. 
+
+tras la publicacion del informe, el partido farc aun no se ha pronunciado.
+aux: 
+actores: ['gobierno', 'gobierno', 'gobierno', 'gobierno', 'gobierno', 'estado']
+puntos: ['punto3']

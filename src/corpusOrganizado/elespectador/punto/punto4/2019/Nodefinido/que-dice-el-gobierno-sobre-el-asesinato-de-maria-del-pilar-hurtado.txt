@@ -1,0 +1,19 @@
+titulo: que-dice-el-gobierno-sobre-el-asesinato-de-maria-del-pilar-hurtado
+Link: https://www.elespectador.com/politica/que-dice-el-gobierno-sobre-el-asesinato-de-maria-del-pilar-hurtado-article-867356/
+fecha: 22/0/2019
+contenido: el presidente de la republica, ivan duque, quien realiza una gira de estado por europa, se pronuncio sobre el crimen ocurrido en tierralta, cordoba, a traves de su cuenta de twitter en la madrugada de este sabado.
+
+gran parte del pais se conmovio el viernes con las imagenes de un nino que, desconsolado, daba gritos frente al cadaver de su madre en tierralta, cordoba.  , en frente de sus dos hijos, brayan y omar, y el video que circulo por las redes sociales era el de uno de sus dos ninos lamentando con aullidos desgarradores de dolor, pateando la tierra, pegandoles a una puerta, ante un nefasto crimen que le atribuyen a las autodenominadas autodefensas gaitanistas de colombia (agc). 
+
+ 
+
+el pais entero reclama justicia, reclama la presencia del estado en tierras que parecen de nadie. todo sucedio, ademas, en momento en que el presidente ivan duque marquez realiza una tropezada visita en europa, un periplo por el viejo mundo que ha estado acompanado de varias protestas que le reclaman al primer mandatario la implementacion del acuerdo de paz sin mas peros y en el que han tenido que ver hasta el paramento britanico y los medios de comunicacion. 
+
+por eso, sin haber aun regresado al pais, el presidente se pronuncio sobre el asesinato de hurtado montano a traves de su cuenta en twitter. "condenamos atroz crimen de maria del pilar hurtado montano en tierralta, cordoba. n  solicite a autoridades acciones inmediatas para dar con responsables de este repudiable hecho", escribio el jefe de estado. el trino fue publicado en la madrugada colombiana, a las 3:24hs. condenamos atroz crimen de maria del pilar hurtado montano en tierralta, cordoba. nos duele profundamente la tristeza y el sufrimiento de su hijo. nuestra solidaridad con sus familiares. solicite a autoridades acciones inmediatas para dar con responsables de este repudiable hecho    conformo grupo especial con la sijin de   para investigar homicidio de maria del pilar hurtado en el departamento de  
+
+"dolorosisima la escena del nino. como mama y mujer, rechazo este vil asesinato. en segundo lugar, se ha venido revisando en las fuentes oficiales y no se encontro realmente que hubiese una amenaza en nombre de la senora, pero las investigaciones estan en cabeza de quien corresponde y nosotros, como gobierno, nos acogemos a ellas", dijo en dialogo con  
+
+en ese mismo sentido, agrego que la zona en la que asesinaron a hurtado "esta penetrada por la lucha interna de grupos ilegales, como narcotraficantes y explotadores ilegales de minerales que tienen una disputa por el control territorial. por eso hay accion militar permanente y esperamos que en los proximos meses se logre el control y el estado pueda hacer presencia a traves de las entidades territoriales".   he solicitado que una delegacion del gobierno, con acompanamiento de consejero de derechos humanos, francisco barbosa, e integrantes de fuerza publica, se trasladen hoy mismo a la zona para adelantar consejo de seguridad y se tomen medidas inmediatas para dar con los responsables
+aux: #atencion #fiscalia @policiacolombia #cordoba
+actores: ['estado', 'estado', 'ivan_duque', 'estado', 'estado']
+puntos: ['punto1', 'punto3', 'punto4', 'punto5']

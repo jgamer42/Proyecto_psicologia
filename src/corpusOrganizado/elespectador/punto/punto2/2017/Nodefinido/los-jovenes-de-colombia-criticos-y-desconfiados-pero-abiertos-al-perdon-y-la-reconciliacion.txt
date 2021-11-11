@@ -1,0 +1,39 @@
+titulo: los-jovenes-de-colombia-criticos-y-desconfiados-pero-abiertos-al-perdon-y-la-reconciliacion
+Link: https://www.elespectador.com/politica/los-jovenes-de-colombia-criticos-y-desconfiados-pero-abiertos-al-perdon-y-la-reconciliacion-article-697032/
+fecha: 5/0/2017
+contenido: un estudio del ministerio del interior, la universidad de los andes y el barometro de las americas muestra que a la juventud en el pais si les interesa la politica y mucho, y que participan, pero no a traves de partidos o votaciones. lo hacen por causas democraticas y a traves de las redes sociales. una mayoria tiende a identificarse con la izquierda. 
+
+	las cifras son altamente llamativas y dan para todo tipo de analisis. por ejemplo, el 62.8% de los  , entendidos como aquellas personas entre los 18 y los 29 anos de edad, estan   y el 35.7% con el acuerdo de paz firmado con las farc. sin embargo, al mismo tiempo, son quienes mas le apuestan a la reconciliacion y al perdon, pues el 39.1% apoyaria que un hijo suyo fuera amigo de un desmovilizado de esa guerrilla, el 50,9% aceptarian que en el colegio de su hijo estudien hijos de desmovilizados y el 47% consentirian que en la empresa donde trabajan les den empleo a los exguerrilleros. 
+
+
+	son algunas de las conclusiones que muestra el  estudio adelantado por el   y el  , en analisis conjunto con la  , el proyecto regional de opinion publica mas grande de todo el hemisferio occidental, con el que se busca entender el comportamiento y las expectativas de los jovenes en el pais frente a la politica y conocer que estan pensando del sistema democratico, politico y de participacion ciudadana. la encuesta fue realizada por la universidad de los andes en 2016.  
+
+
+	"esta investigacion es la radiografia de una generacion inquieta, critica, disgustada y que desconfia en las instituciones de la democracia representativa. queda tambien claro que a los jovenes si les interesa la politica y mucho. participan, pero no a traves de partidos o votaciones cada cuatro anos. lo hacen por causas democraticas y a traves de las redes sociales. por eso es tan importante que el congreso de la republica sea consiente que la reforma politica que se va a tramitar es una oportunidad para actualizar nuestra democracia e incluir a las nuevas generaciones", senalo  
+
+
+	eso si, el estudio evidencia que   y una desconfianza aguda entre los jovenes con las instituciones. seis de cada 10 declaran no confiar en las instituciones democraticas. apenas una cuarta parte de ellos, el 25.4%, declaran confiar en el congreso. el 15,6% simpatizan con algun partido y el 8.4% confian en estos. queda claro que los partidos politicos son la institucion que mas han perdido legitimidad en los ultimos ocho anos, tendencia que esta mas marcada en los jovenes.   y siete de cada 10 piensan que a los gobernantes no les interesa lo que piensan ellos. 
+
+
+	"las nuevas generaciones estan experimentando profundas transformaciones en la forma como se aproximan y vinculan a los debates politicos, por este motivo entender sus opiniones, actitudes y comportamientos en la arena publica es de vital importancia para descifrar el futuro de la democracia", agrego  
+
+
+	el estudio indago igualmente por la tendencia ideologica de la juventud colombiana. y aunque hay quienes insisten en afirmar que colombia es un pais de derecha, se ve un   y posturas mas progresistas que el resto de la poblacion. en efecto, uno de cada cuatro jovenes, el 27.2%, se define de izquierda, evidenciando asi un aumento de 16.7 puntos porcentuales en los ultimos 13 anos. a su vez, el 14.9% se auto ubican a la derecha del espectro politico, mientras en 2004 un 31.5% lo hacia. en sintesis, son pocos los jovenes que se consideran de derecha. 
+
+
+	por otra parte, los   como la diversidad sexual, la eutanasia, el divorcio, el consumo de marihuana, el sexo antes del matrimonio y el uso de anticonceptivos, lo que indica que son mas progresistas que el resto de la poblacion. al 13% de ellos le preocupan los temas relacionados con la violencia, al 11% con el desempleo, al 10% con la seguridad, al 9% con la delincuencia, al 7% con la economia, la corrupcion y el conflicto armado, y al 3% con la salud y la desigualdad. 
+
+
+	otro dato clave es que quedo demostrado tambien que los jovenes estan mas informados y tienen mejor cultura general de la politica que el resto de la poblacion.  : seis de cada 10 usan internet diariamente, mientras que cuatro de cada 10 adultos lo hacen. cuatro de cada 10 se informan a traves de las redes sociales y tres de cada 10 a traves de portales web. no comentan la informacion que consumen, pero en cambio, cinco de cada 10 dan clic en "me gusta" en las redes sociales, y cuatro de cada 10 comparten los enlaces de los contenidos que consumen. en este sentido, los jovenes son influenciadores politicos de primer nivel. 
+
+
+	en cuanto a protestas y marchas convocadas a traves de esas redes sociales, dos de cada 10 jovenes, en 2016, participaron en ellas, lo que demuestra que la accion politica se gesta en redes y pasa de la plaza virtual a la calle. la inconformidad con las instituciones politicas tradicionales no significa apatia.  , privilegiando la accion directa y los espacios locales. las cifras dejan entrever un despertar democratico de la participacion juvenil en los ultimos anos: el 55.2% considera que la democracia es la mejor forma de gobierno, pero no votan, piensan que la democracia va mas alla del ejercicio electoral. 
+
+
+	sin embargo, su participacion en espacios locales y comunitarios se ha duplicado en los ultimos tres anos, al igual que su participacion en juntas de accion comunal, en los ultimos ocho anos. la mayor participacion de esas juntas se registra en el pacifico, con el 18.5%.  los menores niveles se observan en bogota, con apenas un 8.1%. 
+
+
+	la encuesta para este estudio se realizo a 1.562 personas, entre el 2 de agosto y el 21 de octubre de 2016. la muestra de recoleccion fue cara a cara, con entrevistas en   y varias ciudades de las regiones  , en sus zonas urbanas y rural.
+aux: 
+actores: []
+puntos: ['punto1', 'punto2', 'punto3']

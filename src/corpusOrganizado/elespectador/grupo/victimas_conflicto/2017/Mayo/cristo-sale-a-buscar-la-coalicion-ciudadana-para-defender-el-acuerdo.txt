@@ -1,0 +1,23 @@
+titulo: cristo-sale-a-buscar-la-coalicion-ciudadana-para-defender-el-acuerdo
+Link: https://www.elespectador.com/politica/cristo-sale-a-buscar-la-coalicion-ciudadana-para-defender-el-acuerdo-article-695547/
+fecha: 26/5/2017
+contenido: el exministro seguira como delegado del gobierno en la comision de seguimiento, impulso y verificacion a la implementacion del acuerdo final.
+	tras su  , juan fernando cristo se dedicara a preparar el camino para la defensa del acuerdo de paz, bajo la amenaza hecha por miembros del centro democratico de hacerlo "trizas" en caso de llegar al poder. 
+
+
+	"no me postulo a ninguna candidatura, no entro en campana. empezare a salir a donde me inviten, a defender unas ideas y a tratar de ampliar, mas alla de las fronteras partidistas,  
+
+
+	el exministro agrego que el presidente juan manuel santos le pidio que siguiera como delegado del gobierno en la comision de seguimiento, impulso y verificacion a la implementacion del acuerdo final (csivi), una solicitud que acepto. 
+
+
+	"he aceptado esa responsabilidad y creo que terminamos un ciclo con un agradecimiento grande a las organizaciones sociales, de victimas y al congreso que nos acompano", dijo cristo. 
+
+
+	como nuevo ministro del interior fue designado guillermo rivera, quien fungia como viceministro de la misma cartera y quien ya anuncio que una de las primeras acciones sera la de intentar prorrogar el 'fast track' por seis meses mas.  
+
+
+	"vamos a enviarle este viernes una nota al congreso indicandole la necesidad de prorrogar el "fast track" por seis meses mas y con ello seguiremos al frente del tramite de las iniciativas que hacen falta", dijo el nuevo ministro.
+aux: renuncia el ministerio del interior (lea: prorrogar "fast track": primera decision de guillermo rivera como nuevo ministro)
+actores: ['gobierno', 'gobierno', 'victimas_conflicto', 'ministros']
+puntos: ['punto3', 'punto5']

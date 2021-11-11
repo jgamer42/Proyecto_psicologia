@@ -1,0 +1,25 @@
+titulo: camara-de-representantes-aprobo-prorroga-de-la-ley-de-victimas
+Link: https://www.elespectador.com/politica/camara-de-representantes-aprobo-prorroga-de-la-ley-de-victimas-article-895723/
+fecha: 13/12/2019
+contenido: ahora la batuta la tiene el senado. el presidente ivan duque anuncio que le daria mensaje de urgencia.despues de un dia en que la plenaria de la camara de representantes se volco en la discusion por el punto del orden del dia en el que se encontraba el proyecto que busca, unicamente, prorrogar la ley de victimas, este viernes la corporacion le dio su si. 
+
+"estamos muy felices porque, a pesar del largo debate que se dio ayer, de los micos que intentaron colocar para evitar que se prorrogara la ley de victimas, tal como se habia comprometido el presidente y como ya habia exhortado la corte constitucional, pues hoy logramos que se aprobara la vigencia de esta y se prorrogara por 10 anos mas", dijo la autora del proyecto, la representante maria jose pizarro, de la lista de los decentes. 
+
+la aprobacion del proyecto no implicaba mucha discusion, pues lo unico que busca es ampliar la vigencia de esta normativa, sin embargo, algunos representantes alertaron de una posible estrategia dilatoria para posponer para el proximo ano el debate. 
+
+muchos senalaron a la bancada del centro democratico como los responsables de esto. "es inexplicable la posicion de este partido que dice que apoya a las victimas, que esta decidido a acompanarlas en su anhelo de que se prorrogue la ley, pero que dejan ese anhelo para el proximo ano", manifesto john jairo hoyos de la u. 
+
+otros, como el representante de cambio radical, jose daniel lopez, hicieron un llamado de unidad en torno a las victimas para aprobar la iniciativa. "el centro democratico y el presidente han manifestado su intencion de acompanar la prorroga, los partidos que hemos acompanado el acuerdo de paz hacemos lo propio, tengamos un gesto de grandeza de unidad", dijo. 
+
+y seguido, el liberal carlos alejandro chacon llamo la atencion del presidente de la camara, carlos cuenca, para que pusiera en orden y procurara guiar el debate que era sencillo: "es solo la ampliacion de la vigencia, no tiene sentido que le demos aplazamiento. senor presidente, no se complique y no sea irresponsabilidad de una carga de estas", comento haciendo referencia a la posible postergacion de la iniciativa. 
+
+los peros del uribismo se radican en que ven la necesidad de cambiar la vigente ley de victimas, por lo que, para ellos, era imprescindible darle mayor debate al proyecto y anadirle cambios.  "las victimas necesitan una reivindicacion verdadera del estado", sentencio. 
+
+en la discusion alrededor del punto del dia de la propuesta, pizarro hizo una invitacion para que todos, que dijeron defender la prorroga, se unieran en su aprobacion: "este es un proyecto de ley que es un minimo reconocimiento. claro que coincido que necesita una reforma integral, pero esto es un paso minimo que no les quita nada aprobarlo. les pido coherencia con quienes ustedes dicen que defienden, en esa coherencia minimamente debemos de encontrarnos", manifesto. 
+
+es por eso, que tras la aprobacion se llego al acuerdo de presentar una reforma a la ley. "el llamado es a que como lo anunciaron los del centro democratico podamos realizar una reforma integra que incorpore a todos los sectores de victimas, que no deje a ninguno por fuera y que claramente permita que las victimas sean reparadas de manera mas eficiente, mas justa e integral", expreso pizarro. 
+
+el proyecto ahora pasa a la comision primera de senado.
+aux: 
+actores: ['ivan_duque', 'victimas_conflicto', 'victimas_conflicto', 'victimas_conflicto']
+puntos: ['punto5']

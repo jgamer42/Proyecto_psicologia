@@ -1,0 +1,20 @@
+titulo: ambulancias-empiezan-a-llegar-a-zonas-veredales
+Link: https://www.elespectador.com/politica/ambulancias-empiezan-a-llegar-a-zonas-veredales-article-686374/
+fecha: 25/3/2017
+contenido: el gobierno informo que a partir de este sabado empezaran a llegar a las zonas donde se concentra la guerrilla las 26 ambulancias que estaran disponibles las 24 horas para atender emergencias medicas en las regiones donde las farc hara su transito a la vida civil.
+	cuando se cumplen   con las  , finalmente  para las urgencias que se presenten a los combatientes de las farc en proceso de dejacion de armas. 
+
+
+	las ambulancias,  donde las farc dejara la armas y se reintegrara a la vida civil en un tiempo total de 180 dias. 
+
+
+	"  a todas las zonas veredales transitorias de normalizacionpara apoyar la atencion de emergencias en estos lugares", explico el ejecutivo en un comunicado publico. 
+
+
+	asi mismo detallo que los vehiculos "  y que   que se presente en estas zonas. 
+
+
+	finalmente, el comunicado de prensa afirma que   a disposicion de guerrilleros, miembros de la mision especial de la onu y pobladores de las regiones donde se ubican las zonas veredales.
+aux: 
+actores: ['gobierno']
+puntos: ['punto3']

@@ -9,11 +9,11 @@ inicio = datetime.now()
 print("buscando en google")
 elespectador = google.buscar("elespectador") 
 time.sleep(20)
-#eltiempo = google.buscar("eltiempo")
+eltiempo = google.buscar("eltiempo")
 time.sleep(20)
-#eltiempoEspecial = googleEltiempo.buscar()
-#links = eltiempo+elespectador+eltiempoEspecial
-links = elespectador
+eltiempoEspecial = googleEltiempo.buscar()
+links = eltiempo+elespectador+eltiempoEspecial
+#links = elespectador
 fin = datetime.now()
 print(f"demoro {fin-inicio} y encontro {len(links)}")
 inicio = datetime.now()
@@ -29,7 +29,6 @@ for link in links:
         escritor.txt(data)
         escritor.Json(data)
         esperar = random.randint(10,30)
-        #esperar = random.randint(30,420)
         print(f"esperando {esperar}")
         time.sleep(esperar)
     else:

@@ -1,0 +1,15 @@
+titulo: venezuela-no-sera-mas-pais-garante-en-proceso-de-paz-con-eln-duque
+Link: https://www.elespectador.com/politica/venezuela-no-sera-mas-pais-garante-en-proceso-de-paz-con-eln-duque-article-814695/
+fecha: 27/9/2018
+contenido: desde nueva york, el jefe de estado advirtio que un pais que acoge a terroristas no puede ejercer ese rol para lograr la transicion hacia una colombia en paz.venezuela ya no sera mas pais garante para el proceso de paz con el eln. asi lo anuncio el presidente ivan duque desde nueva york, antes de su regreso a colombia este jueves, tras culminar la 73 asamblea general de la onu. el jefe de estado senalo que de retomarse los dialogos con esa guerrilla, no podra aceptar que el pais vecino siga acompanando dicho proceso dado que, segun sus palabras, esta siendo complice de terroristas. 
+
+"un pais que ha auspiciado al eln en su territorio, que lo ha protegido, que ha permitido que desde su territorio se fraguen actos criminales contra el pueblo colombiano, esta lejos de ser garante. ademas, alla lo que hay es una dictadura, complice de actividades criminales", afirmo el mandatario. 
+
+el presidente duque agrego que en venezuela, el regimen de nicolas maduro esta acogiendo a los cabecillas de esa organizacion ilegal armada, y que permite que se orquesten planes dirigidos en contra del pueblo colombiano. no obstante, insistio al eln que renuncie a todo tipo de actividades criminales y de muestras de voluntad de paz en aras de retomar las conversaciones que se estaban desarrollando en la habana, (cuba). 
+
+"antes de hablar de garantes o no garantes, lo que me parece importante es hablar sobre las premisas de un acuerdo. tengo toda la voluntad de poder establecer un dialogo con el eln, pero ustedes lo han escuchado: espero que la base de la construccion de un dialogo sea la liberacion de todos los secuestrados y que se ponga fin a las actividades criminales", enfatizo el jefe de estado. 
+
+en el mismo sentido, el jefe de estado se refirio a las declaraciones que, en las ultimas horas,dio el expresidente alvaro uribe frente a la situacion en venezuela invita a las tropas venezolanas a dirigirse al palacio de miraflores "para que desalojen la dictadura". duque afirmo que su gobierno no tiene ninguna actitud belicista, menos cuando lo que busca maduro, segun dijo, es crear un monstruo para perpetuarse en el poder. "creo que es mas importante la presion diplomatica internacional", afirmo.
+aux: 
+actores: ['estado', 'ivan_duque', 'estado', 'ivan_duque', 'estado', 'ivan_duque', 'gobierno']
+puntos: ['punto5']

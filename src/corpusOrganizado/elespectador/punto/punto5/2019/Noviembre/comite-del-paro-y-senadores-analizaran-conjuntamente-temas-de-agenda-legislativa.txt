@@ -1,0 +1,24 @@
+titulo: comite-del-paro-y-senadores-analizaran-conjuntamente-temas-de-agenda-legislativa
+Link: https://www.elespectador.com/politica/comite-del-paro-y-senadores-analizaran-conjuntamente-temas-de-agenda-legislativa-article-893222/
+fecha: 27/11/2019
+contenido: voceros del comite y de los partidos acordaron buscar "soluciones inmediatas" para conjurar las protestas y elevaron un llamado al presidente ivan duque para "reconsiderar la iniciacion de dialogos o conversaciones" directamente con los lideres de las manifestaciones. 
+al termino de la reunion que este miercoles sostuvieron representantes del   y   se acordo que, con miras a conjurar las problematicas y reclamos que originaron las protestas, se analizara de manera conjunta los  entre los que se destacan la   asi como el proyecto del uribismo que contempla varias reformas en el  del pais.  
+
+ 
+
+ si bien la reunion, que se extendio por mas de nacional, fue ideada para tratar el proyecto de reforma tributaria, que hace su tramite en las comisiones terceras del senado y la camara de representantes, sirvio para  en busqueda de "soluciones inmediatas".  
+
+ a traves de una declaracion conjunta -entre el comite, los voceros de los partidos y el presidente del senado, lidio garcia- se expreso un   asi como una manifestacion de la voluntad de continuar trabajando en busqueda de soluciones.  
+
+ "adquirimos el compromiso de  a legislativa en curso, de la agenda legislativa de iniciativa congresional y la agenda de control politico, que puedan conducir a   de manera autonoma como rama legislativa", senalan los firmantes.  
+
+ 
+
+ por otro lado, elevaron un llamado al  para que, como jefe de estado, directamente con el comite nacional de paro. por su parte, los voceros de cada partido anunciaron que propondran una para que fijen su posicion sobre la agenda elaborada por el comite nacional de paro.  
+
+ "el senado de la republica se dispone desde ya a  sobre los temas de agenda legislativa y control politico relacionados con las peticiones del comite nacional de paro", precisaron.  
+
+ la reunion coincidio con el llamado para salir nuevamente a las calles elevado por el comite nacional de paro, el cual comunico que buscaran   el joven que murio el pasado lunes tras ser herido por un agente del esmad. a las calles han salido diversas movilizaciones que se han manifestado en contra de las   la violencia contra la mujer, el asesinato a los lideres sociales y el abuso policial, entre otras.
+aux: 
+actores: ['ivan_duque', 'senado', 'senado']
+puntos: ['punto3', 'punto5']

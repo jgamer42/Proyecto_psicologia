@@ -1,0 +1,19 @@
+titulo: el-abstencionismo-derroto-a-todos-los-partidos-politicos
+Link: https://www.elespectador.com/politica/el-abstencionismo-derroto-a-todos-los-partidos-politicos-article-743878/
+fecha: 12/3/2018
+contenido: a pesar de que este ano aumento el numero de votantes, en comparacion con las elecciones de 2014, mas de la mitad del pais, 53 %, no salio a votar para el congreso y para las consultas interpartidistas.ni resultados historicos como la de   y  , quienes se cuentan entre los senadores mas votados de la historia de colombia, consiguieron que el abstencionismo fuera inferior al 50 %. y es que con mas del 97 % de los votos escrutados,  
+
+en comparacion con 2014,   puesto que mientras este ano la cantidad de votantes fue del 47,8 %, ese ano alcanzo el 43,58 %. aun asi, hay que tener en cuenta que para 2014, la cifra de personas habilitadas para votar fue de 32.835.856, es decir,  . 
+
+(lea aqui:  ). 
+
+para las dos consultas interpartidistas que se realizaron este domingo, en las que ganaron ivan duque y gustavo petro, 9.627.903 colombianos votaron: 6,1 millones para la de duque, marta lucia ramirez y alejandro ordonez, y 3,5 millones para la de petro y la de carlos caicedo. es decir,  para estos comicios, eso si, teniendo en cuenta que solo se podia votar por uno. 
+
+adicional a los que no votaron, se puede contar a los votos nulos y los votos no marcados, que tambien obtuvieron una cifra considerable. en el caso de las elecciones  y 1.392.274 votos no marcados. mientras tanto, para las consultas los sufragios anulados alcanzaron la cifra de 136.012 y 193.220 sin ninguna marca. 
+
+estos resultados, no se alejan mucho de la realidad colombiana, donde la abstencion en elecciones ha sido una constante contra la que las autoridades han intentado combatir. y los comicios en los que hubo mas ausentes en las urnas, en los ultimos anos, c. en esa ocasion hubo 34,8 millones de personas habilitadas, de las que solo votaron poco mas de 13 millones, lo que supuso una abstencion superior al 62 %. 
+
+pero de este tipo de resultados, mas que decir que solo muestran la desidia de los colombianos a la hora de participar en politica, tambien se puede agregar que se trata  de una manifestacion los indignados, de los que no se sienten identificados con las opciones que se les ofrece o el desinteres de votar para elegir los miembros de instituciones tan desprestigiadas ante la opinion publica como el congreso.
+aux: las irregularidades en las urnas reportadas por la moe
+actores: ['ivan_duque', 'gustavo_petro']
+puntos: ['punto2', 'punto3', 'punto5']

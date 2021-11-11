@@ -1,0 +1,17 @@
+titulo: entrampar-a-santrich-fue-una-decision-muy-hostil-contra-el-proceso-de-paz-sergio-jaramillo
+Link: https://www.elespectador.com/politica/entrampar-a-santrich-fue-una-decision-muy-hostil-contra-el-proceso-de-paz-sergio-jaramillo-article-865912/
+fecha: 14/0/2019
+contenido: el excomisionado de paz dijo que todavia hay hechos muy oscuros que rodearon el episodio del exguerrillero que se deben aclarar. dijo, ademas, que el gobierno de ivan duque se "rajo" en la implementacion del acuerdo de paz tras recordar que lo pactado en cuba fue un compromiso asumido por el estado colombiano.  lanzo fuertes criticas en contra de los hechos que rodearon   y que lo senalan de haber fraguado un plan para enviar 10 toneladas de cocaina a estados unidos. en dialogo con  ,   planteo serias dudas frente a la forma en la que se organizo el denominado entrampamiento por parte de las autoridades norteamericanas, sin el conocimiento de la fiscalia de colombia, para evidenciar que el exguerrillero delinquio despues de la firma del acuerdo de paz. 
+
+"todo lo que gira alrededor del caso santrich es opaco, huele mal, ahi hay algo muy raro.  , porque esa si es una decision   contra el proceso de paz. hay muchas preguntas que aun se deben aclarar mas alla de la misma responsabilidad de ' dijo jaramillo. agrego que, en todo caso, la mejor decision para el pais es dejar que las instituciones funcionen y tomen las decisiones del caso frente al futuro politico y juridico del hoy congresista del partido farc. 
+
+ 
+
+lo que si cuestiono fue el hecho de que el exjefe del ente acusador,   organizada por las autoridades norteamericanas la cual, agrego, es ilegal. "?por que los americanos no la hicieron con los grupos que tienen para eso en colombia como siempre se ha hecho? uno hace un entrampamiento contra una organizacion de crimen organizado impenetrable cuando la quiere derrumbar y no le consigue la evidencia para hacerlo", aclaro, tras advertir que 'santrich' no estaba dedicado al tema de las drogas. 
+
+ estaba en sus campamentos haciendo propaganda,   y subio su perfil por el papel muy importante que jugo en la negociacion", dijo el excomisionado. en tal sentido, agrego que el entrampamiento al exguerrillero tuvo el unico fin de generar panico entre los excombatientes que si estuvieron involucrados, de manera mas directa, con el trafico de drogas. "era obvio que el efecto que iba a tener esa operacion   del proceso", reitero. 
+
+finalmente, dijo en la entrevista radial que el gobierno de  en la implementacion del acuerdo de paz, tras recordar que los compromisos asumidos en la habana son de estado. destaco, no obstante, que el proceso de reincorporacion politica de los exguerrilleros ha sido un exito pero que "en el resto" no ha habido avances.
+aux: 
+actores: ['gobierno', 'ivan_duque', 'estado', 'fiscalia', 'gobierno']
+puntos: ['punto3', 'punto5']

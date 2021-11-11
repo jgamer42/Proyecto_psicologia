@@ -1,0 +1,23 @@
+titulo: este-pais-cambio-y-cada-dia-crecen-las-voces-que-reclaman-la-paz-defendamos-la-paz
+Link: https://www.elespectador.com/politica/este-pais-cambio-y-cada-dia-crecen-las-voces-que-reclaman-la-paz-defendamos-la-paz-article-878392/
+fecha: 29/8/2019
+contenido: el movimiento creado para impulsar la implementacion del acuerdo final expreso que, ante el anuncio de "ivan marquez" del rearme de los disidentes de las farc, exige la construccion integral de la paz en todo el pais. el movimiento defendamos la paz (dlp), creado para impulsar la implementacion del acuerdo final con las farc, se pronuncio luego del mensaje de   de rearmarse para volver a la guerra.  
+
+dlp rechazo el incumplimiento que cometieron  , junto con los demas disidentes, que decidieron abandonar el proceso de reincorporacion y construccion de la paz.  
+
+ 
+
+"las conquistas obtenidas luego de la firma del acuerdo final han sido historicas y no deben ser negadas ni minimizadas como han querido hacerlo los opositores del proceso.   dijo en un comunicado.  
+
+en ese sentido, sus integrantes afirmaron que los excombatientes que conforman el nuevo partido politico requieren "todo el apoyo y respaldo del estado". por eso, le enviaron un mensaje a todos los colombianos, tanto a los defensores como a los detractores del acuerdo,  
+
+ 
+
+"este trance dificil esta siendo aprovechado por dirigentes politicos interesados en hacer trizas la paz y devolvernos al pasado para justificar su narrativa politica de la guerra.  por ello continuaremos en nuestro empeno de defender la implementacion del acuerdo". 
+
+ 
+
+asi las cosas, el movimiento hizo un llamado al pais y en especial al gobierno nacional para preservar el desarrollo de la paz y reafirmar la necesidad de implementar de manera integral el acuerdo final. como la persistente ausencia de la institucionalidad del estado en forma integral, aumenta los peligros del recrudecimiento de la violencia", expreso defendamos la paz.
+aux: 
+actores: ['gobierno', 'estado']
+puntos: ['punto3']

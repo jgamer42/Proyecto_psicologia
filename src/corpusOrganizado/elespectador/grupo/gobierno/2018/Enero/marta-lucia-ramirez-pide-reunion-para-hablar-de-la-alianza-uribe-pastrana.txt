@@ -1,0 +1,32 @@
+titulo: marta-lucia-ramirez-pide-reunion-para-hablar-de-la-alianza-uribe-pastrana
+Link: https://www.elespectador.com/politica/marta-lucia-ramirez-pide-reunion-para-hablar-de-la-alianza-uribe-pastrana-article-732561/
+fecha: 10/1/2018
+contenido: marta lucia ramirez, candidata presidencial, les envio una carta, este martes, a los expresidentes alvaro uribe y andres pastrana en la que les pedia una reunion para dialogar sobre la coalicion.
+	marta lucia ramirez, candidata presidencial, les envio una carta, este martes, a los expresidentes alvaro uribe y andres pastrana en la que les pedia una reunion para dialogar sobre la coalicion. "he abogado por una reunion conjunta de todos los interesados para analizar en funcion de los intereses superiores del pais, cual puede ser la candidatura, el mecanismo y el programa detallado, que nos permita que esta alianza gane a los demas contendores la proxima eleccion presidencial". 
+
+
+	el pasado 3 de enero, ivan duque, candidato presidencial del centro democratico, tambien emitio una misiva en la que pedia un acuerdo programatico antes que posturas individuales o creencias personales que se interpusieran en la alianza. duque tambien pidio que se enfocaran con lo relacionado al futuro del acuerdo de paz entre el gobierno y las farc.  
+
+
+	 
+
+
+	tambien anadio que una consulta popular abierta o cualquier otra forma de seleccion del candidato unico de la coalicion, se convierte en un tema secundario "si no existen compromisos claros, acordados, compartirdos y obligatorios", segun expreso el candidato del uribismo. 
+
+
+	sin embargo, el manejo mediatico que los candidatos le han dado a sus pronunciamientos causo que ramirez pidiera en su comunicado que concentraran sus esfuerzos en construir confianza "en lugar de tener afan de promover agendas individuales, pretender la superioridad de ninguno, o caer en descalificaciones personales destempladas, cuando el proposito comun es el de servir correctamente a nuestro pais". 
+
+
+	 
+
+
+	"debemos mostrar cuanto antes al pais cual es la formula alternativa que ofrece esta alianza frente a las que ya se han consolidado y salir en poco tiempo a recorrer el pais mostrando las tesis y propuestas con las cuales aspiramos a reconstruir la confianza y la institucionalidad que nos permitan convertir a colombia", manifesto ramirez.  
+
+
+	ademas menciono que la mecanica y el proceso pueden definirse si existe voluntad por parte de todos los miembros y candidatos de la alianza con el fin de no solo ganar las elecciones sino tambien gobernar en equipo. 
+
+
+	la candidata finaliza su carta pidiendo que se promueva "cuanto antes un dialogo generoso y responsable" para que entre todos tomen la decision adecuada para las elecciones que definiran el proximo presidente de la republica.
+aux: lea: ivan duque pide acuerdo programatico antes que mecanismo de eleccion de candidato lea: "lo importante es el pais y no las vanidades personales": marta lucia ramirez
+actores: ['ivan_duque', 'gobierno']
+puntos: ['punto2', 'punto3', 'punto5']

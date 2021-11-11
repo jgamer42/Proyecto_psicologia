@@ -1,0 +1,7 @@
+titulo: el-pais-se-queja-de-la-justicia-privada-y-quieren-crear-una-para-las-farc-uribe
+Link: https://www.elespectador.com/politica/el-pais-se-queja-de-la-justicia-privada-y-quieren-crear-una-para-las-farc-uribe-article-660005/
+fecha: 12/10/2016
+contenido: el expresidente rechazo la postura del maximo jefe de las farc, timochenko, de calificar de 'exabrupto' reabrir los dialogos en torno al modelo de justicia transicional
+aux: 
+actores: []
+puntos: ['punto3', 'punto5']
