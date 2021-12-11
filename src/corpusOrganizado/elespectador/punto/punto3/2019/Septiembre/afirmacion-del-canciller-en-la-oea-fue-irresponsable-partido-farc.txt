@@ -10,10 +10,6 @@ contenido: la colectividad afirmo que es falsa la declaracion de carlos holmes t
 a lo que la colectividad naciente del acuerdo final pactado en la habana afirmo que la del canciller es una acusacion no solo falsa, sino irresponsable. "ignoramos que busca hacer el   sin reparar en los nocivos resultados de tal conducta que   cuestiono el consejo politico de la farc.  
 
 bajo ese argumento el partido dejo en claro que la situacion politica del implicado por trujillo es responsabilidad de esa organizacion y, hasta la fecha, la informacion suministrada por el canciller a los estados americanos no reposa en la comision de seguimiento, impulso, y verificacion de la implementacion del acuerdo, de la que hace parte el gobierno nacional, con la participacion de nancy patricia gutierrez, ministra del interior, miguel ceballos, comisionado de paz, y emilio archila, consejero para la estabilizacion.  
--- farc (@partidofarc)  
- 
-
- fue la gran pregunta que dejo sobre la mesa la colectividad. mediante el comunicado, sus miembros le recordaron al funcionario que las actividades del partido son publicas.  
 
 "la jurisdiccion especial para la paz expide permisos de salidas del pais con exigencias demasiado rigurosas. cada uno de nosotros cuenta con un enlace de la policia nacional y personal del esquema de seguridad de la unp las 24 horas", son algunas de las medidas que vigilan las actuaciones de los exguerrilleros comprometidos con su reincorporacion a la vida civil, que va a completar tres anos de proceso.  
 
@@ -25,11 +21,7 @@ sobre el hecho, rodrigo granda senalo que un canciller debe ser alguien  con cap
 
  
 
-el excombatiente, que hace parte de la unidad de trabajo legislativo (utl) del representante carlos alberto carreno marin, fue privado de su libertad porque, segun el ente acusador, en su sistema registraba una orden de captura en su contra. sin embargo, luego de revisar los listados de presidencia y de la jurisdiccion especial para la paz (jep), comprobaron que  
--- farc (@partidofarc)  
- 
-
-y en la carta enviada por el partido, sus miembros senalaron un incidente que cometio el gobierno con otros dos de sus militantes. segun la farc,
-aux: september 12, 2019 september 9, 2019
-actores: ['gobierno', 'gobierno', 'ivan_duque', 'gobierno']
+el excombatiente, que hace parte de la unidad de trabajo legislativo (utl) del representante carlos alberto carreno marin, fue privado de su libertad porque, segun el ente acusador, en su sistema registraba una orden de captura en su contra. sin embargo, luego de revisar los listados de presidencia y de la jurisdiccion especial para la paz (jep), comprobaron que
+aux: 
+actores: ['gobierno', 'gobierno', 'ivan_duque']
 puntos: ['punto3', 'punto5']

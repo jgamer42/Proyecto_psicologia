@@ -156,3 +156,6 @@ src/corpus
 *.zip
 bd.sql
 otrosResutados
+corpusOrganizado
+.csv
+.jpg

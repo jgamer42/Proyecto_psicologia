@@ -1,7 +1,0 @@
-titulo: este-el-tarjeton-de-la-votacion-del-plebiscito-para-la-paz
-Link: https://www.eltiempo.com/politica/proceso-de-paz/tarjeton-del-plebiscito-para-los-acuerdos-de-paz-con-las-farc-56954
-fecha: 08/9/2016,
-contenido: este jueves, el registrador nacional, juan carlos galindo, presento la tarjeta electoral que sera utilizada el proximo 2 de octubre en el plebiscito para la paz, donde se refrendara el acuerdo final entre el gobierno y las farc. "la tarjeta electoral tiene la pregunta formulada por el presidente de la republica", afirmo galindo. esta fue conocida el pasado 30 de agosto y es:  en el documento, los ciudadanos tendran la opcion de votar por el 'si' o 'no'. (lea tambien:  ) en medio de la presentacion, el registrador afirmo que se imprimiran cerca de 35 millones de tarjetas electorales para todo el proceso y se contara con unas plantillas especiales para las personas con discapacidad visual. "el voto para personas invidentes se realizara con plantilla en lenguaje braille", indico. para que el mecanismo de refrendacion sea valido se requiere un umbral del 13 por ciento del censo electoral, es decir que se necesitan al menos 4,4 millones de votantes ya sea por el 'si' o por el 'no'. (ademas:  )  sin embargo, si gana el 'no', significara el rechazo de los colombianos al proceso, por lo que no habria implementacion de lo pactado. eltiempo.com
-aux: 
-actores: ['gobierno']
-puntos: ['punto3']

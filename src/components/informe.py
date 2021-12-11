@@ -23,7 +23,7 @@ def fechas_unicas():
     a = cur.fetchall()
     fechas = list(set([c[0] for c in a ]))
     años = list(set([año.split("/")[-1] for año in fechas]))
-    años = [año for año in años if año not in ["2020","2021","2021,","2020,"]]
+    años = [año for año in años if año not in ["2015","2021","2021,"]]
     años.sort()
     return años
 
@@ -54,7 +54,7 @@ def totales(accion):
     salida = {}
     data = getData(accion)
     for d in data:
-        sql = f"SELECT noticia.link FROM {accion}_noticia,noticia INNER JOIN {accion} WHERE {accion}.nombre='{d}' AND {accion}_noticia.{accion}={accion}.id AND noticia.id={accion}_noticia.noticia AND noticia.fecha LIKE '%201%'"
+        sql = f"SELECT noticia.link FROM {accion}_noticia,noticia INNER JOIN {accion} WHERE {accion}.nombre='{d}' AND {accion}_noticia.{accion}={accion}.id AND noticia.id={accion}_noticia.noticia"
         noticias = ejecutarSql(sql)
         noticias = list(set([noticia[0] for noticia in noticias]))
         if len(noticias) != 0:  
@@ -107,7 +107,6 @@ def totalGrupos():
         grupo.nombre='{partido}' AND
         actor_noticia.actor=actor.id AND
         actor_noticia.noticia=noticia.id AND
-        noticia.fecha LIKE '%201%'
         '''
         data = ejecutarSql(sql)
         if len(data) != 0:
@@ -170,7 +169,6 @@ def grupoPunto(periodico):
             grupo.id = actor.grupo AND
             grupo.nombre='{partido}' AND
             punto.nombre='{punto}' AND
-            noticia.fecha LIKE '%201%' AND
             noticia.periodico='{periodico}'
             '''
             noticias = ejecutarSql(sql)
@@ -193,7 +191,6 @@ def totalesPartido():
             WHERE 
             noticia.id = actor_noticia.noticia AND
             actor.id = actor_noticia.actor AND
-            noticia.fecha LIKE "%201%" AND
             grupo.nombre = "{partido}" AND
             noticia.periodico = '{periodico}' AND
             grupo.id = actor.grupo
@@ -250,13 +247,3 @@ def totalesAño():
                     salida[periodico] = {}     
                 salida[periodico][año] = len(noticias)
     return salida
-#escritor.csvFechas(grupoPunto())
-#escritor.csvAños(grupoFecha())
-#print(grupoFecha("eltiempo"))
-#print(grupoPunto("eltiempo"))
-#escritor.csvAños(porFechas("punto"))
-#print(totales("punto"))
-#print(totalesPartido("elespectador"))
-#escritor.csvFechas(totalesPartido())
-#escritor.csvFechas(totalesPunto())
-escritor.csvFechas(totalesAño())

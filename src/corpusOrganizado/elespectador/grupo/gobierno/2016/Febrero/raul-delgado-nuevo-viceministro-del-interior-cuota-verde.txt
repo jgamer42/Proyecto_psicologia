@@ -1,7 +1,0 @@
-titulo: raul-delgado-nuevo-viceministro-del-interior-cuota-verde
-Link: https://www.elespectador.com/politica/raul-delgado-nuevo-viceministro-del-interior-cuota-verde-article-618933/
-fecha: 26/2/2016
-contenido: el nuevo funcionario llega a reemplazar a carlos ferro quien se vio involucrado en un escandalo sexual en la policia.el gobierno nacional continuo este viernes adelantando una serie de nombramientos con miras a lo que sera la  . al de nombramiento de carlos eduardo correa, exalcalde de monteria, como viceministro de agua,  . el  . los nuevos nombramientos son parte de dos iniciativas del gobierno: el posicionamiento de la paz en las regiones (de momento pasto y monteria) y la representacion de los partidos del pacto por la paz o unidad santista por la paz. y es que todo indica que  . en los cotilleos politicos se rumora que delgado es una de las cuotas de los verdes en el gobierno pues es alguien muy cercano al senador antonio navarro wolff. esta semana el presidente juan manuel santos anuncio la creacion del gran pacto por la paz. la intencion con este bloque de la mayoria de partidos y movimientos politicos es comprometerse a trabajar por la terminacion del conflicto armado y la construccion de la paz. (lea:  ) del pacto por la paz son parte los partidos de la u, liberal, conservador, cambio radical, alianza verde, polo democratico, mira, mais, asi y opcion ciudadana.
-aux: anuncian creacion del gran pacto por la paz
-actores: ['gobierno', 'gobierno']
-puntos: []

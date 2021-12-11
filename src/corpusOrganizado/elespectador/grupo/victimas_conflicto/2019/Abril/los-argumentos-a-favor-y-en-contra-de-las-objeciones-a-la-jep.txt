@@ -12,20 +12,12 @@ al final, el impedimento le fue nuevamente levantado y   roy barreras, acerca de
  interrumpida esa intervencion por parte del presidente del congreso, ernesto macias, se avanzo en la votacion de los impedimentos y los congresistas a cargo de la ponencia negativa que pide hundir las objeciones procedieron a dar sus argumentos ante la plenaria. "el medio para lograr la paz y un acuerdo nacional no puede darse desconociendo la corte constitucional", dijo el senador alberto castilla, del polo democratico, quien fue el primer ponente que paso al estrado de esta corporacion.  
 
 de igual forma, castilla retomo el argumento que dicta que los articulos objetados pasaron previamente por la corte constitucional, por tanto los reparos son (como ya han dicho los defensores de la estatutaria) de inconstitucionalidad y no de inconveniencia. "tengo que recordar que el procedimiento legislativo especial se hizo precisamente para agilizar y garantizar la implementacion del acuerdo final para la terminacion del conflicto y par ala construccion de la paz estable y duradera, y ofrecer garantias de cumplimiento. la corte lo ratifica y establecio que el fast track rige durante todo el procedimiento de la ley, desde su radicacion hasta su culminacion", manifesto el senador del polo para traer a colacion los antecedentes de la centencia. 
--- el espectador (@elespectador)  
- 
-
-entre tanto, ivan marulanda, senador de la alianza verde, recordo la lucha que el mismo -de la mano del fallecido exministro rodrigo lara bonilla- enfrento en la decada de los ochenta y argumento que la politica contra las drogas ha fracasado. senalo que la decision del presidente ivan duque de regresar la ley estatuaria a la jep fue un enorme error, y lo califico de  de varios de sus colegas quienes, al final se levantaron a abrazarlo. 
 
 con esos motivos, marulanda invito a la plenaria a votar positivamente el informe para hundir las objeciones porque, segun dijo, desde la argumentacion juridica no hay lugar para aceptar los reparos del presidente duque. "no es competencia del congreso ni del presidente tocar lo que ya cerro la corte con sus conceptos.no caigamos otra vez en una guerra infame. ", puntualizo.  
 
 cada uno tuvo 15 minutos para defender sus posturas, pidiendo a la plenaria que rechazara esos reparos y pasar la pagina de la polarizacion.  y aseguraron que si no se aprueban, al menos, las objeciones referidas a la extradicion y a las listas de los exmiembros  
 
   
--- el espectador (@elespectador)  
- 
-
-el primer congresista en pasar a defender la ponencia mayoritaria fue john milton rodriguez, por el partido colombia justa-libres. rodriguez centro sus argumentos en la objeciones referentes a las facultades de la jep para acoger a personas que podrian ser extraditados, asegurando que no aceptar estos reparos era poner en riesgo la justicia e ir en contra del estado social de derecho. 
 
 "un acuerdo de paz no puede danar el estado social de derecho. y aqui si esta pasando eso. no nos dejemos centrar en el tema de la polarizacion. ?que podemos mejorar? ?como quedaria el articulo?. no es que se este haciendo trizas el acuerdo de paz. se esta haciendo trizas la justicia colombiana", dijo.  
 
@@ -36,16 +28,12 @@ acto seguido, hacia las seis de la tarde, el senador conservador david barguil e
 como sus companeros, paloma valencia, del centro democratico, tambien paso al frente y se refirio a lo que, para ella, es el fondo del debate. "el verdadero debate no es si las normas son constitucionales. es si son convenientes para colombia. y lo deciden el presidente de la republica y el congreso, porque aqui esta la representacion democratica", formulo valencia. 
 
 con ambas ponencias presentadas, el presidente del senado, ernesto macias, dio paso a que otros presentes intervinieran en el debate. asi lo hizo nancy patricia gutierrez, ministra del interior, y algunos congresistas como claudia castellanos y german varon cotrino (ambos de cambio radical).  
--- el espectador (@elespectador)  
- 
-
-por su lado, luis fernando velasco, del partido liberal, subio al estrado para reiterar que su bancada negara las objeciones y que, luego de eso, sus copartidarios y el estaran abiertos a un acuerdo nacional.  
 
 "el partido liberal no puede ser inferior a quienes como gaitan, como uribe, como galan, como rodrigo lara hace 35 anos murieron por la paz. no podemos ser incoherentes con lo que defendimos hace apenas unos anos, no podriamos aceptar unas objeciones que pueden poner en riesgo un acuerdo que defendimos, que lo explicamos, que lo votamos, que sacamos adelante y que ha significado que muchas vidas se hayan salvado" manifesto velasco, en respuesta de los constantes llamados que, tanto los defensores como los detractores de la estatutaria, le han hecho a su partido para definir la votacion de las objeciones. 
 
 por el momento, otros congresistas que han tomado la palabra en el debate son: roy barreras (de la u), gustavo petro (colombia humana), juan diego gomez (partido conservador), efrain cepeda (conservador), aida avella (decentes) y feliciano valencia (mais).  
 
 una vez terminen las intervenciones, la plenaria del senado votara, primero, la ponencia que pide el hundimiento de los reparos expresados por el presidente ivan duque. dado que, en total, fueron aprobados 13 impedimentos, el quorum cambiaria y, por ende, la mayoria requerida para avalar -o rechazar- las objeciones a la jep. resta esperar si la
-aux: april 30, 2019 april 30, 2019 may 1, 2019
-actores: ['senado', 'gobierno', 'ivan_duque', 'jep', 'jep', 'estado', 'estado', 'ivan_duque', 'victimas_conflicto', 'gustavo_petro', 'senado']
+aux: 
+actores: ['senado', 'gobierno', 'estado', 'ivan_duque', 'victimas_conflicto', 'gustavo_petro', 'senado']
 puntos: ['punto2', 'punto3', 'punto5']
